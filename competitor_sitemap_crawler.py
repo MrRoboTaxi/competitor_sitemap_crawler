@@ -93,7 +93,7 @@ def normalize_target(url: str, host: str) -> str | None:
     return urllib.parse.urlunsplit(("https", host, path, "", ""))
 
 
-def collect_urls(site: dict[str, str]) -> list[str]:
+def collect_urls(site_id: str, site: dict[str, str]) -> list[str]:
     all_urls: set[str] = set()
     visited: set[str] = set()
     for sitemap in root_sitemaps(site):
@@ -147,7 +147,7 @@ def main() -> int:
     if args.test_notification:
         send_bark("competitor-sitemap", {"name": "Competitor sitemap monitor"}, ["https://example.com/monitor-test"])
         return 0
-    current = {site_id: collect_urls(SITES[site_id]) for site_id in selected}
+    current = {site_id: collect_urls(site_id, SITES[site_id]) for site_id in selected}
     known = {site_id: load_known_urls(site_id) for site_id in selected}
     if args.bootstrap or any(not known[site_id] for site_id in selected):
         STATE_DIR.mkdir(parents=True, exist_ok=True)
