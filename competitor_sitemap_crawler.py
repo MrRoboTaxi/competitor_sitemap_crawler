@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import gzip
 import json
 import logging
 import os
@@ -105,12 +106,20 @@ def collect_urls(site_id: str, site: dict[str, str]) -> list[str]:
 
 
 def state_file(site_id: str) -> Path:
-    return STATE_DIR / f"{site_id}_urls.txt"
+    return STATE_DIR / f"{site_id}_urls.txt.gz"
 
 
 def load_known_urls(site_id: str) -> set[str]:
     path = state_file(site_id)
-    return set(path.read_text(encoding="utf-8").splitlines()) if path.exists() else set()
+    if not path.exists():
+        return set()
+    with gzip.open(path, mode="rt", encoding="utf-8") as state:
+        return set(state.read().splitlines())
+
+
+def write_known_urls(site_id: str, urls: list[str]) -> None:
+    with gzip.open(state_file(site_id), mode="wt", encoding="utf-8") as state:
+        state.write("\n".join(urls) + "\n")
 
 
 def write_report(site_id: str, site: dict[str, str], new_urls: list[str]) -> None:
@@ -152,7 +161,7 @@ def main() -> int:
     if args.bootstrap or any(not known[site_id] for site_id in selected):
         STATE_DIR.mkdir(parents=True, exist_ok=True)
         for site_id in selected:
-            state_file(site_id).write_text("\n".join(current[site_id]) + "\n", encoding="utf-8")
+            write_known_urls(site_id, current[site_id])
             logging.info("%s baseline: %d URLs", SITES[site_id]["name"], len(current[site_id]))
         return 0
     changes = {site_id: sorted(set(current[site_id]) - known[site_id]) for site_id in selected}
@@ -163,7 +172,7 @@ def main() -> int:
             send_bark(site_id, SITES[site_id], changes[site_id])
     STATE_DIR.mkdir(parents=True, exist_ok=True)
     for site_id in selected:
-        state_file(site_id).write_text("\n".join(current[site_id]) + "\n", encoding="utf-8")
+        write_known_urls(site_id, current[site_id])
     return 0
 
 
