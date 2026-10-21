@@ -51,19 +51,32 @@ def root_sitemaps(site: dict[str, str]) -> list[str]:
     return urls or [site["fallback"]]
 
 
-def parse_sitemap(url: str, visited: set[str]) -> set[str]:
+def should_follow_sitemap(site_id: str, url: str) -> bool:
+    """Pippit advertises many translated sitemap branches; keep default and English."""
+    if site_id != "pippit":
+        return True
+    path = urllib.parse.urlsplit(url).path
+    return "/default/" in path or "/kep-en/" in path or path.endswith("/sitemap.xml") or path.endswith("sitemap_index.xml")
+
+
+def parse_sitemap(site_id: str, url: str, visited: set[str]) -> set[str]:
     if url in visited:
         return set()
     visited.add(url)
     logging.info("Fetching sitemap: %s", url)
     try:
         root = ET.fromstring(fetch(url))
+    except urllib.error.HTTPError as error:
+        if error.code == 404:
+            logging.warning("Skipping missing sitemap %s", url)
+            return set()
+        raise RuntimeError(f"Could not parse sitemap {url}: {error}") from error
     except (urllib.error.URLError, TimeoutError, ET.ParseError) as error:
         raise RuntimeError(f"Could not parse sitemap {url}: {error}") from error
     namespace = "{" + root.tag.split("}", 1)[0].lstrip("{") + "}" if "}" in root.tag else ""
     kind = root.tag.rsplit("}", 1)[-1]
     if kind == "sitemapindex":
-        return set().union(*(parse_sitemap(loc.strip(), visited) for item in root.findall(f"{namespace}sitemap") if (loc := item.findtext(f"{namespace}loc"))))
+        return set().union(*(parse_sitemap(site_id, loc.strip(), visited) for item in root.findall(f"{namespace}sitemap") if (loc := item.findtext(f"{namespace}loc")) and should_follow_sitemap(site_id, loc.strip())))
     if kind != "urlset":
         raise RuntimeError(f"Unexpected XML root {kind} from {url}")
     return {loc.strip() for item in root.findall(f"{namespace}url") if (loc := item.findtext(f"{namespace}loc"))}
@@ -84,7 +97,7 @@ def collect_urls(site: dict[str, str]) -> list[str]:
     all_urls: set[str] = set()
     visited: set[str] = set()
     for sitemap in root_sitemaps(site):
-        all_urls.update(parse_sitemap(sitemap, visited))
+        all_urls.update(parse_sitemap(site_id, sitemap, visited))
     urls = {normalized for url in all_urls if (normalized := normalize_target(url, site["host"]))}
     if not urls:
         raise RuntimeError(f"{site['name']}: no target URLs found; refusing to overwrite state")
