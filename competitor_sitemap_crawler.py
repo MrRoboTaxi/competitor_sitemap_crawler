@@ -30,6 +30,7 @@ SITES = {
     "viddo": {"name": "Viddo", "host": "viddo.ai", "fallback": "https://viddo.ai/sitemap.xml"},
     "supermaker": {"name": "Supermaker", "host": "supermaker.ai", "fallback": "https://supermaker.ai/sitemap.xml"},
     "pippit": {"name": "Pippit", "host": "www.pippit.ai", "fallback": "https://www.pippit.ai/sitemap.xml"},
+    "mitte": {"name": "Mitte", "host": "mitte.ai", "fallback": "https://mitte.ai/sitemap.xml"},
 }
 
 
@@ -158,13 +159,19 @@ def main() -> int:
         return 0
     current = {site_id: collect_urls(site_id, SITES[site_id]) for site_id in selected}
     known = {site_id: load_known_urls(site_id) for site_id in selected}
-    if args.bootstrap or any(not known[site_id] for site_id in selected):
+    if args.bootstrap:
         STATE_DIR.mkdir(parents=True, exist_ok=True)
         for site_id in selected:
-            write_known_urls(site_id, current[site_id])
             logging.info("%s baseline: %d URLs", SITES[site_id]["name"], len(current[site_id]))
+            write_known_urls(site_id, current[site_id])
         return 0
-    changes = {site_id: sorted(set(current[site_id]) - known[site_id]) for site_id in selected}
+    new_sites = {site_id for site_id in selected if not known[site_id]}
+    for site_id in new_sites:
+        logging.info("%s baseline: %d URLs", SITES[site_id]["name"], len(current[site_id]))
+    changes = {
+        site_id: [] if site_id in new_sites else sorted(set(current[site_id]) - known[site_id])
+        for site_id in selected
+    }
     for site_id in selected:
         logging.info("%s current: %d; new: %d", SITES[site_id]["name"], len(current[site_id]), len(changes[site_id]))
         if changes[site_id]:
