@@ -29,7 +29,6 @@ SITES = {
     "kapwing": {"name": "Kapwing", "host": "www.kapwing.com", "fallback": "https://www.kapwing.com/sitemap-index.xml"},
     "viddo": {"name": "Viddo", "host": "viddo.ai", "fallback": "https://viddo.ai/sitemap.xml"},
     "supermaker": {"name": "Supermaker", "host": "supermaker.ai", "fallback": "https://supermaker.ai/sitemap.xml"},
-    "pippit": {"name": "Pippit", "host": "www.pippit.ai", "fallback": "https://www.pippit.ai/sitemap.xml"},
     "mitte": {"name": "Mitte", "host": "mitte.ai", "fallback": "https://mitte.ai/sitemap.xml"},
 }
 
@@ -53,14 +52,6 @@ def root_sitemaps(site: dict[str, str]) -> list[str]:
     return urls or [site["fallback"]]
 
 
-def should_follow_sitemap(site_id: str, url: str) -> bool:
-    """Pippit advertises many translated sitemap branches; keep default and English."""
-    if site_id != "pippit":
-        return True
-    path = urllib.parse.urlsplit(url).path
-    return "/default/" in path or "/kep-en/" in path or path.endswith("/sitemap.xml") or path.endswith("sitemap_index.xml")
-
-
 def parse_sitemap(site_id: str, url: str, visited: set[str]) -> set[str]:
     if url in visited:
         return set()
@@ -78,7 +69,7 @@ def parse_sitemap(site_id: str, url: str, visited: set[str]) -> set[str]:
     namespace = "{" + root.tag.split("}", 1)[0].lstrip("{") + "}" if "}" in root.tag else ""
     kind = root.tag.rsplit("}", 1)[-1]
     if kind == "sitemapindex":
-        return set().union(*(parse_sitemap(site_id, loc.strip(), visited) for item in root.findall(f"{namespace}sitemap") if (loc := item.findtext(f"{namespace}loc")) and should_follow_sitemap(site_id, loc.strip())))
+        return set().union(*(parse_sitemap(site_id, loc.strip(), visited) for item in root.findall(f"{namespace}sitemap") if (loc := item.findtext(f"{namespace}loc"))))
     if kind != "urlset":
         raise RuntimeError(f"Unexpected XML root {kind} from {url}")
     return {loc.strip() for item in root.findall(f"{namespace}url") if (loc := item.findtext(f"{namespace}loc"))}
