@@ -173,34 +173,29 @@ def write_report(pages: list[dict[str, str]]) -> Path:
 
 
 def send_bark(pages: list[dict[str, str]], test: bool = False) -> None:
+    if not pages:
+        return
     key = os.environ.get("BARK_DEVICE_KEY")
     if not key:
         raise RuntimeError("BARK_DEVICE_KEY is required when new templates appear")
-    preview = "\n".join(page.get("name") or page["slug"] for page in pages[:10])
-    if len(pages) > 10:
-        preview += f"\n…及另外 {len(pages) - 10} 个"
-    payload = json.dumps(
-        {
-            "title": "MakeViral 监控测试" if test else f"MakeViral 新增 {len(pages)} 个特效模板",
-            "body": "Bark 推送链路正常" if test else preview,
-            "url": pages[0]["url"],
-            "group": "makeviral-templates",
-            "sound": "minuet",
-        },
-        ensure_ascii=False,
-    ).encode("utf-8")
     base = (os.environ.get("BARK_SERVER_URL") or "https://api.day.app").rstrip("/")
     endpoint = f"{base}/{urllib.parse.quote(key, safe='')}"
-    request = urllib.request.Request(
-        endpoint,
-        data=payload,
-        headers={"Content-Type": "application/json", "User-Agent": USER_AGENT},
-        method="POST",
-    )
-    with urllib.request.urlopen(request, timeout=20) as response:
-        if not 200 <= response.status < 300:
-            raise RuntimeError(f"Bark returned HTTP {response.status}")
-    logging.info("Bark notification sent for %d new templates", len(pages))
+    total_parts = (len(pages) + 11) // 12
+    for part, start in enumerate(range(0, len(pages), 12), 1):
+        chunk = pages[start:start + 12]
+        title = "MakeViral 监控测试" if test else f"MakeViral 新增 {len(pages)} 个特效模板"
+        if total_parts > 1:
+            title += f"（{part}/{total_parts}）"
+        payload = json.dumps(
+            {"title": title, "body": "Bark 推送链路正常" if test else "\n".join(page.get("name") or page["slug"] for page in chunk),
+             "url": chunk[0]["url"], "group": "makeviral-templates", "sound": "minuet"},
+            ensure_ascii=False,
+        ).encode("utf-8")
+        request = urllib.request.Request(endpoint, data=payload, headers={"Content-Type": "application/json", "User-Agent": USER_AGENT}, method="POST")
+        with urllib.request.urlopen(request, timeout=20) as response:
+            if not 200 <= response.status < 300:
+                raise RuntimeError(f"Bark returned HTTP {response.status}")
+        logging.info("Bark notification sent for MakeViral (%d/%d, %d templates)", part, total_parts, len(chunk))
 
 
 def main(argv: list[str] | None = None) -> int:

@@ -212,35 +212,30 @@ def write_report(events: list[dict[str, str]], counts: dict[str, int]) -> Path:
 
 
 def send_bark(events: list[dict[str, str]], test: bool = False) -> None:
+    if not events:
+        return
     key = os.environ.get("BARK_DEVICE_KEY")
     if not key:
         raise RuntimeError("BARK_DEVICE_KEY is required when Jump on the Trend changes appear")
     new_count = sum(event["event"] == "new" for event in events)
     upgrades = len(events) - new_count
-    preview = "\n".join(f"{event['name']} · {STATUS_LABEL[event['status']]}" for event in events[:10])
-    if len(events) > 10:
-        preview += f"\n…及另外 {len(events) - 10} 条"
-    payload = json.dumps(
-        {
-            "title": "Jump on the Trend 监控测试" if test else f"Jump on the Trend：新增 {new_count}，进展 {upgrades}",
-            "body": "Bark 推送链路正常" if test else preview,
-            "url": events[0]["url"],
-            "group": "jumponthetrend-trends",
-            "sound": "minuet",
-        },
-        ensure_ascii=False,
-    ).encode("utf-8")
     base = (os.environ.get("BARK_SERVER_URL") or "https://api.day.app").rstrip("/")
-    request = urllib.request.Request(
-        f"{base}/{urllib.parse.quote(key, safe='')}",
-        data=payload,
-        headers={"Content-Type": "application/json", "User-Agent": USER_AGENT},
-        method="POST",
-    )
-    with urllib.request.urlopen(request, timeout=20) as response:
-        if not 200 <= response.status < 300:
-            raise RuntimeError(f"Bark returned HTTP {response.status}")
-    logging.info("Bark %s notification sent (%d events)", "test" if test else "trend", len(events))
+    total_parts = (len(events) + 11) // 12
+    for part, start in enumerate(range(0, len(events), 12), 1):
+        chunk = events[start:start + 12]
+        title = "Jump on the Trend 监控测试" if test else f"Jump on the Trend：新增 {new_count}，进展 {upgrades}"
+        if total_parts > 1:
+            title += f"（{part}/{total_parts}）"
+        payload = json.dumps(
+            {"title": title, "body": "Bark 推送链路正常" if test else "\n".join(f"{event['name']} · {STATUS_LABEL[event['status']]}" for event in chunk),
+             "url": chunk[0]["url"], "group": "jumponthetrend-trends", "sound": "minuet"},
+            ensure_ascii=False,
+        ).encode("utf-8")
+        request = urllib.request.Request(f"{base}/{urllib.parse.quote(key, safe='')}", data=payload, headers={"Content-Type": "application/json", "User-Agent": USER_AGENT}, method="POST")
+        with urllib.request.urlopen(request, timeout=20) as response:
+            if not 200 <= response.status < 300:
+                raise RuntimeError(f"Bark returned HTTP {response.status}")
+        logging.info("Bark %s notification sent (%d/%d, %d events)", "test" if test else "trend", part, total_parts, len(chunk))
 
 
 def main(argv: list[str] | None = None) -> int:

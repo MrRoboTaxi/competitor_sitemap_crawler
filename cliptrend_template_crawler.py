@@ -124,34 +124,29 @@ def write_report(cards: list[dict[str, str]]) -> Path:
 
 
 def send_bark(cards: list[dict[str, str]], test: bool = False) -> None:
+    if not cards:
+        return
     key = os.environ.get("BARK_DEVICE_KEY")
     if not key:
         raise RuntimeError("BARK_DEVICE_KEY is required when new ClipTrend templates appear")
-    preview = "\n".join(card["name"] for card in cards[:10])
-    if len(cards) > 10:
-        preview += f"\n…及另外 {len(cards) - 10} 个"
-    payload = json.dumps(
-        {
-            "title": "ClipTrend 监控测试" if test else f"ClipTrend 新增 {len(cards)} 个特效模板",
-            "body": "Bark 推送链路正常" if test else preview,
-            "url": cards[0]["url"],
-            "group": "cliptrend-templates",
-            "sound": "minuet",
-        },
-        ensure_ascii=False,
-    ).encode("utf-8")
     base = (os.environ.get("BARK_SERVER_URL") or "https://api.day.app").rstrip("/")
     endpoint = f"{base}/{urllib.parse.quote(key, safe='')}"
-    request = urllib.request.Request(
-        endpoint,
-        data=payload,
-        headers={"Content-Type": "application/json", "User-Agent": USER_AGENT},
-        method="POST",
-    )
-    with urllib.request.urlopen(request, timeout=20) as response:
-        if not 200 <= response.status < 300:
-            raise RuntimeError(f"Bark returned HTTP {response.status}")
-    logging.info("Bark notification sent for %d new ClipTrend templates", len(cards))
+    total_parts = (len(cards) + 11) // 12
+    for part, start in enumerate(range(0, len(cards), 12), 1):
+        chunk = cards[start:start + 12]
+        title = "ClipTrend 监控测试" if test else f"ClipTrend 新增 {len(cards)} 个特效模板"
+        if total_parts > 1:
+            title += f"（{part}/{total_parts}）"
+        payload = json.dumps(
+            {"title": title, "body": "Bark 推送链路正常" if test else "\n".join(card["name"] for card in chunk),
+             "url": chunk[0]["url"], "group": "cliptrend-templates", "sound": "minuet"},
+            ensure_ascii=False,
+        ).encode("utf-8")
+        request = urllib.request.Request(endpoint, data=payload, headers={"Content-Type": "application/json", "User-Agent": USER_AGENT}, method="POST")
+        with urllib.request.urlopen(request, timeout=20) as response:
+            if not 200 <= response.status < 300:
+                raise RuntimeError(f"Bark returned HTTP {response.status}")
+        logging.info("Bark notification sent for ClipTrend (%d/%d, %d templates)", part, total_parts, len(chunk))
 
 
 def main(argv: list[str] | None = None) -> int:

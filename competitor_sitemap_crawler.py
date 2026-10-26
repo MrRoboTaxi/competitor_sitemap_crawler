@@ -123,18 +123,25 @@ def write_report(site_id: str, site: dict[str, str], new_urls: list[str]) -> Non
 
 
 def send_bark(site_id: str, site: dict[str, str], new_urls: list[str]) -> None:
+    if not new_urls:
+        return
     key = os.environ.get("BARK_DEVICE_KEY")
     if not key:
         raise RuntimeError("BARK_DEVICE_KEY is required for scheduled monitoring")
-    preview = "\n".join(url.rsplit("/", 1)[-1] or "/" for url in new_urls[:12])
-    if len(new_urls) > 12:
-        preview += f"\n…及另外 {len(new_urls) - 12} 条"
-    payload = json.dumps({"title": f"{site['name']} 新增 {len(new_urls)} 个页面", "body": preview, "group": f"{site_id}-sitemap", "sound": "minuet"}, ensure_ascii=False).encode()
     base_url = (os.environ.get("BARK_SERVER_URL") or "https://api.day.app").rstrip("/")
-    request = urllib.request.Request(f"{base_url}/{urllib.parse.quote(key, safe='')}", data=payload, headers={"Content-Type": "application/json", "User-Agent": USER_AGENT}, method="POST")
-    with urllib.request.urlopen(request, timeout=20) as response:
-        if not 200 <= response.status < 300:
-            raise RuntimeError(f"Bark returned HTTP {response.status}")
+    total_parts = (len(new_urls) + 11) // 12
+    for part, start in enumerate(range(0, len(new_urls), 12), 1):
+        chunk = new_urls[start:start + 12]
+        title = f"{site['name']} 新增 {len(new_urls)} 个页面"
+        if total_parts > 1:
+            title += f"（{part}/{total_parts}）"
+        body = "\n".join(url.rsplit("/", 1)[-1] or "/" for url in chunk)
+        payload = json.dumps({"title": title, "body": body, "group": f"{site_id}-sitemap", "sound": "minuet"}, ensure_ascii=False).encode()
+        request = urllib.request.Request(f"{base_url}/{urllib.parse.quote(key, safe='')}", data=payload, headers={"Content-Type": "application/json", "User-Agent": USER_AGENT}, method="POST")
+        with urllib.request.urlopen(request, timeout=20) as response:
+            if not 200 <= response.status < 300:
+                raise RuntimeError(f"Bark returned HTTP {response.status}")
+        logging.info("Bark notification sent for %s (%d/%d, %d URLs)", site_id, part, total_parts, len(chunk))
 
 
 def main() -> int:
