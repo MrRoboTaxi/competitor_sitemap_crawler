@@ -10,6 +10,18 @@ The initial scheduled run records baselines without alerting. Later runs only up
 
 Use the workflow's `test_notification` input to verify delivery without touching the baseline.
 
+## ClipTrend templates
+
+`cliptrend_template_crawler.py` tracks cards actually shown at `https://cliptrend.ai/templates`. The sitemap contains 38 additional `/ai-video-effects/` SEO pages that are absent from the template library, so the crawler uses the server-rendered card links instead. Both `/templates/{slug}` and `/ai-video-effects/{slug}` cards count, and preset query parameters are retained. The baseline is `state/cliptrend_template_urls.txt`. New cards generate a metadata report and one Bark alert in the `cliptrend-templates` group. Failed pushes leave the baseline unchanged for retry.
+
+The ClipTrend workflow runs every 12 hours at 02:17 and 14:17 UTC (10:17 and 22:17 in Shanghai) using the existing Bark secrets. Use its `test_notification` input to check Bark without changing the baseline.
+
+```bash
+python3 cliptrend_template_crawler.py --bootstrap  # first run only
+python3 cliptrend_template_crawler.py
+python3 -m unittest discover -s tests -p 'test_cliptrend.py'
+```
+
 ```bash
 python3 makeviral_sitemap_crawler.py --bootstrap  # first run only
 python3 makeviral_sitemap_crawler.py

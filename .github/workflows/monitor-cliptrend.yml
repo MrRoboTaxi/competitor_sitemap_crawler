@@ -1,0 +1,55 @@
+name: Monitor ClipTrend templates
+
+on:
+  schedule:
+    # 10:17 and 22:17 Asia/Shanghai, twelve hours apart.
+    - cron: '17 2,14 * * *'
+  workflow_dispatch:
+    inputs:
+      test_notification:
+        description: Send a ClipTrend Bark test notification
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cliptrend-template-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Test ClipTrend monitor
+        run: python -m unittest discover -s tests -p 'test_cliptrend.py'
+
+      - name: Check ClipTrend cards and notify
+        env:
+          BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
+          BARK_SERVER_URL: ${{ secrets.BARK_SERVER_URL }}
+        run: python cliptrend_template_crawler.py ${{ inputs.test_notification && '--test-notification' || '' }}
+
+      - name: Commit monitoring state and reports
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add state/cliptrend_template_urls.txt
+          if [ -d reports ]; then git add reports/*/cliptrend_new_urls.txt reports/*/cliptrend_new_templates.json 2>/dev/null || true; fi
+          if git diff --cached --quiet; then
+            echo 'No ClipTrend changes to commit.'
+          else
+            git commit -m 'chore: update ClipTrend template state'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
