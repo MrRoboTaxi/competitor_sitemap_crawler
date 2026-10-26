@@ -22,6 +22,18 @@ python3 cliptrend_template_crawler.py
 python3 -m unittest discover -s tests -p 'test_cliptrend.py'
 ```
 
+## Jump on the Trend
+
+`jumponthetrend_crawler.py` combines the site's `sitemaps/trends.xml` with the public `/trends/` gallery and its **Coming soon** and **Rising, not on the site yet** lists. The sitemap includes both ready-to-make trends and pages for trends that are still coming soon, so a URL-only diff would miss launches. This monitor records each trend's highest observed stage (`rising`, `sitemap_only`, `coming_soon`, `active`) in `state/jumponthetrend_trends.json`. It alerts for new URLs and stage upgrades, writes full event details to `reports/`, and advances the baseline only after Bark accepts the push. Tool cards outside `/trends/` are excluded.
+
+The workflow runs every 12 hours at 02:41 and 14:41 UTC (10:41 and 22:41 in Shanghai), using the existing Bark secrets. Its `test_notification` input checks delivery without changing state.
+
+```bash
+python3 jumponthetrend_crawler.py --bootstrap  # first run only
+python3 jumponthetrend_crawler.py
+python3 -m unittest discover -s tests -p 'test_jumponthetrend.py'
+```
+
 ```bash
 python3 makeviral_sitemap_crawler.py --bootstrap  # first run only
 python3 makeviral_sitemap_crawler.py

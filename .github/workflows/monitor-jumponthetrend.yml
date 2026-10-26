@@ -1,0 +1,55 @@
+name: Monitor Jump on the Trend
+
+on:
+  schedule:
+    # 10:41 and 22:41 Asia/Shanghai, twelve hours apart.
+    - cron: '41 2,14 * * *'
+  workflow_dispatch:
+    inputs:
+      test_notification:
+        description: Send a Jump on the Trend Bark test notification
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jumponthetrend-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Test Jump on the Trend monitor
+        run: python -m unittest discover -s tests -p 'test_jumponthetrend.py'
+
+      - name: Check Jump on the Trend and notify
+        env:
+          BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
+          BARK_SERVER_URL: ${{ secrets.BARK_SERVER_URL }}
+        run: python jumponthetrend_crawler.py ${{ inputs.test_notification && '--test-notification' || '' }}
+
+      - name: Commit monitoring state and reports
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add state/jumponthetrend_trends.json
+          if [ -d reports ]; then git add reports/*/jumponthetrend_changes.json 2>/dev/null || true; fi
+          if git diff --cached --quiet; then
+            echo 'No Jump on the Trend changes to commit.'
+          else
+            git commit -m 'chore: update Jump on the Trend state'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
