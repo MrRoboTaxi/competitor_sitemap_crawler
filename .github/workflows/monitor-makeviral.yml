@@ -1,0 +1,55 @@
+name: Monitor MakeViral templates
+
+on:
+  schedule:
+    # 09:53 and 21:53 Asia/Shanghai, twelve hours apart.
+    - cron: '53 1,13 * * *'
+  workflow_dispatch:
+    inputs:
+      test_notification:
+        description: Send a MakeViral Bark test notification
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: makeviral-template-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Test MakeViral monitor
+        run: python -m unittest discover -s tests -p 'test_makeviral.py'
+
+      - name: Check MakeViral templates and notify
+        env:
+          BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
+          BARK_SERVER_URL: ${{ secrets.BARK_SERVER_URL }}
+        run: python makeviral_sitemap_crawler.py ${{ inputs.test_notification && '--test-notification' || '' }}
+
+      - name: Commit monitoring state and reports
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add state/makeviral_urls.txt
+          if [ -d reports ]; then git add reports/*/makeviral_new_urls.txt reports/*/makeviral_new_templates.json 2>/dev/null || true; fi
+          if git diff --cached --quiet; then
+            echo 'No MakeViral changes to commit.'
+          else
+            git commit -m 'chore: update MakeViral template state'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
