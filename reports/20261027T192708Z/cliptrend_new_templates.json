@@ -1,0 +1,20 @@
+{
+  "generated_at": "20261027T192708Z",
+  "count": 2,
+  "templates": [
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/halloween-dance",
+      "image": "/effects/halloween-dance/example-poster.webp",
+      "name": "Halloween Dance",
+      "description": "Dance in a cape and witch hat on a jack-o'-lantern street, then finish with a boo pose.",
+      "credits": "48 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/tiny-desk-ai",
+      "image": "/effects/tiny-desk-ai/example-poster.webp",
+      "name": "Tiny Desk AI",
+      "description": "Become the lead singer of the viral office-desk concert meme from one photo.",
+      "credits": "96 credits"
+    }
+  ]
+}
