@@ -1,0 +1,84 @@
+{
+  "generated_at": "20261027T082136Z",
+  "counts": {
+    "active": 375,
+    "coming_soon": 19,
+    "rising": 4,
+    "sitemap": 395,
+    "total": 399
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/button-eye-doll-reveal-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/button-eye-doll-reveal/poster.jpg?v=1792920725",
+      "name": "Button Eye Doll Reveal",
+      "description": "You squish your cheeks and pull faces for the camera, cover the lens with your palm, and pull it away as a pale, stitched doll with black button eyes.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/choosin-texas-emo-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/choosin-texas-emo/poster.jpg?v=1793046428",
+      "name": "Choosin' Texas Emo",
+      "description": "Choosin' Texas, but emo: a hang-loose sign (thumb and little finger out) at the lens in a black cowboy hat, a squat-bounce against a rooftop wall at night, a lunge at the camera, then down on one knee. You or your pet.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/godfather-cat-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/godfather-cat/poster.jpg?v=1792920235",
+      "name": "Godfather Cat",
+      "description": "The famous opening of The Godfather, recreated with you or your pet: a dim wood-panelled study, slatted light through closed blinds, the boss in a tuxedo with a red rose on the lapel, a cat on the lap, and a slow push-in.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/gta-6-duo-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/gta-6-duo/poster.jpg?v=1792920374",
+      "name": "GTA 6 Couple",
+      "description": "You and your partner as a game-trailer pair: a slow-motion walk side by side across a neon-lit Florida-style roadside store forecourt at dusk, palm trees and a white convertible behind you (or your pet strutting it alone).",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/matrix-bullet-dodge-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/matrix-bullet-dodge/poster.jpg?v=1792920291",
+      "name": "Matrix Bullet Dodge",
+      "description": "On a green-tinted city rooftop, you (or your pet in tiny sunglasses) bend far back in slow motion as bullets ripple past with vapour trails, the camera swinging round you: the Matrix bullet dodge, recreated.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/tiny-desk-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/tiny-desk/poster.jpg?v=1793088602",
+      "name": "Tiny Desk",
+      "description": "A crammed office desk gig: you're the lead in the red cap, laughing your way through the big note of \"Outstanding\" while the band in headphones belts it behind a red keyboard and the sax takes it home. Just you, you and a friend, or the whole band.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/titanic-im-flying-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/titanic-im-flying/poster.jpg?v=1792920170",
+      "name": "Titanic I'm Flying",
+      "description": "The \"I'm flying\" bow scene from Titanic, recreated with you: arms out wide at the very tip of an old ocean liner at sunset, the wind in your hair (or your pet with its paws on the rail, ears flapping, or the two of you in the classic pose).",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/tv-head-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/tv-head/poster.jpg?v=1792823383",
+      "name": "TV Head",
+      "description": "A powder-blue vintage TV sits on your shoulders in place of your head, its screen glitching between static, colour bars and your face.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    }
+  ]
+}
