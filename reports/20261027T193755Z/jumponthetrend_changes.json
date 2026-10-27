@@ -1,0 +1,66 @@
+{
+  "generated_at": "20261027T193755Z",
+  "counts": {
+    "active": 381,
+    "coming_soon": 19,
+    "rising": 4,
+    "sitemap": 401,
+    "total": 405
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/absolute-cinema-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/absolute-cinema/poster.jpg?v=1793090658",
+      "name": "Absolute Cinema Meme",
+      "description": "In a black-and-white studio portrait you sit back in a dark armchair, raise both hands beside your head, palms to the camera, and close your eyes in awe: absolute cinema.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/crying-to-confident-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/crying-to-confident/poster.jpg?v=1793090658",
+      "name": "Crying to Confident",
+      "description": "You sit in the audience at a glittering awards night, tears in your eyes and a hand over your face, then you look up, stand tall and walk toward the stage while the room applauds.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/deep-down-in-my-heart-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/deep-down-in-my-heart/poster.jpg?v=1793090658",
+      "name": "Deep Down In My Heart",
+      "description": "Two of you on a brown leather sofa: one says \"Deep down in my heart... I still love you\", and the other holds it in for a second, then breaks into the longest, loudest ugly cry.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/electric-shock-pet-prank-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/electric-shock-pet-prank/poster.jpg?v=1793090658",
+      "name": "Electric Shock Pet Prank",
+      "description": "You and your cat or dog lean over a DIY wiring job at the living-room table, the two wire ends touch, a spark flashes, a cartoon puff of smoke bursts, and when it clears you're both sooty, your hair standing straight up and your pet's fur sticking out in tufts, staring at the camera, then at each other.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/get-these-beggars-out-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/get-these-beggars-out/poster.jpg?v=1793123453",
+      "name": "Get These Beggars Out Meme",
+      "description": "You're Antinous at the torch-lit feast in Nolan's The Odyssey: head thrown back, then that grin down at the beggars.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/scientists-reveal-the-hi-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/scientists-reveal-the-hi/poster.jpg?v=1793090658",
+      "name": "Scientists Reveal the Hi Meme",
+      "description": "Your cat or dog in the wide-eyed news-photo close-up from the 'Scientists reveal the hi' meme: big dark eyes straight down the lens, then a little paw wave hello.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
