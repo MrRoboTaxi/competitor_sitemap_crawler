@@ -1,0 +1,41 @@
+{
+  "generated_at": "20261027T075520Z",
+  "count": 5,
+  "templates": [
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/angel-wings",
+      "image": "/effects/angel-wings/result.webp",
+      "name": "Angel Wings",
+      "description": "Add large feathered angel wings to your photo while keeping your own outfit.",
+      "credits": "4 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/catrina-makeup",
+      "image": "/effects/filtro-catrina-ia/result.webp",
+      "name": "Catrina Makeup",
+      "description": "Preview floral Day of the Dead face paint and marigolds on your own portrait.",
+      "credits": "4 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/football-champion",
+      "image": "/effects/football-champion/result.webp",
+      "name": "Football Champion",
+      "description": "Turn your portrait into an American football action picture with a helmet and a football.",
+      "credits": "4 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/keyboard-duo",
+      "image": "/effects/keyboard-duo/example-poster.webp",
+      "name": "Keyboard Duo",
+      "description": "Two adult photos, a mini keyboard, claps and a shared laugh.",
+      "credits": "96 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/rpg-character",
+      "image": "/effects/rpg-character/result.webp",
+      "name": "RPG Character",
+      "description": "Describe an original fantasy adventurer and create a full-body RPG character illustration.",
+      "credits": "4 credits"
+    }
+  ]
+}
