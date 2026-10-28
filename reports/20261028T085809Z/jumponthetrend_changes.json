@@ -1,0 +1,62 @@
+{
+  "generated_at": "20261028T085809Z",
+  "counts": {
+    "active": 385,
+    "coming_soon": 21,
+    "rising": 4,
+    "sitemap": 407,
+    "total": 411
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/grammy-winner-ai-trend/",
+      "status": "coming_soon",
+      "name": "Music Award Winner",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/grease-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/grease-dance/poster.jpg?v=1793177503",
+      "name": "Grease Dance",
+      "description": "The real Grease (1978) carnival finale with your faces in it: one of you crawls after the red heels on the grass, gets nudged away by a foot, then the two of you dance face to face through the crowd in black.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/oiia-cat-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/oiia-cat/poster.jpg?v=1793177503",
+      "name": "OIIA Spinning Cat Meme",
+      "description": "Your cat or dog as the OIIA spinning cat: lying low on a plain white backdrop, it spins on the spot like a figurine on a turntable, then stops dead and stares straight at you.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/pedro-raccoon-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/pedro-raccoon-dance/poster.jpg?v=1793177503",
+      "name": "Pedro Raccoon Dance Meme",
+      "description": "Your cat or dog in the Pedro raccoon meme: seen from below in a round circle on black, bobbing to the beat and pawing at the lens while the whole view spins round and round.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/skull-cap-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/skull-cap/poster.jpg?v=1793177503",
+      "name": "Skull Cap",
+      "description": "You pull a goofy face in a bright room, your hand covers the lens, and you're back in the dark with a black hood up over a shiny black skull cap and a slow, steady stare into the camera.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/snicker-cat-driving-ai-trend/",
+      "status": "coming_soon",
+      "name": "Snicker Cat Driving",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
