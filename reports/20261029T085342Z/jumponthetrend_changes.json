@@ -1,0 +1,57 @@
+{
+  "generated_at": "20261029T085342Z",
+  "counts": {
+    "active": 390,
+    "coming_soon": 18,
+    "rising": 4,
+    "sitemap": 409,
+    "total": 413
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/grammy-winner-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/grammy-winner/poster.jpg?v=1793176221",
+      "name": "Music Award Winner",
+      "description": "You on a giant music-awards stage at the microphone, holding a gold record trophy, then lifting it high as two confetti cannons fire and gold confetti rains down over you (or the two of you, winning it together).",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/middle-finger-dunk-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/middle-finger-dunk/poster.jpg?v=1792823814",
+      "name": "Middle Finger Dunk",
+      "description": "On a packed park court at night you cross your friend over, fly over them in slow motion, slam it one-handed, then walk up to the camera and brush off your shoulders while they laugh behind you.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/puerto-rican-mami-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/puerto-rican-mami-dance/poster.jpg?v=1793218735",
+      "name": "Puerto Rican Mami Dance",
+      "description": "Two friends at night under a white canopy, filmed from a phone on the ground: arms up and wide, a bump, a knee slap, a quick swap of sides, then a lean down at the lens. Just you, or you and a friend.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/sunset-squad-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/sunset-squad-dance/poster.jpg?v=1793263094",
+      "name": "Sunset Squad Dance",
+      "description": "Your squad on a seaside boardwalk at golden hour: pets up on their hind legs in black sunglasses, friends beside them, one taking the paws-on-head bob, one the double thumbs-up, then everyone bouncing at the lens and freestyling in a row.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/uptown-funk-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/uptown-funk-dance/poster.jpg?v=1792838319",
+      "name": "Uptown Funk Dance",
+      "description": "In a cream retro suit with wide lapels, you strut down a sunny brown-brick street toward the camera, pop your shoulders, snap, point at the lens and tug your lapels straight. Or bring a friend or two in mustard and burgundy, or your cat or dog in a little suit jacket.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    }
+  ]
+}
