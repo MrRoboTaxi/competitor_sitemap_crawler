@@ -1,0 +1,102 @@
+{
+  "generated_at": "20261029T194944Z",
+  "counts": {
+    "active": 400,
+    "coming_soon": 18,
+    "rising": 4,
+    "sitemap": 419,
+    "total": 423
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/bing-bing-bing-kicks-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/bing-bing-bing-kicks/poster.jpg?v=1793280282",
+      "name": "Bing Bing Bing Kicks",
+      "description": "Two figures side by side on a grey scooter-lined street take turns hopping at a shaky phone and kicking at the lens, then one runs at the camera. You and a friend, just you, or your two pets.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/coffee-shop-bop-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/coffee-shop-bop/poster.jpg?v=1793280282",
+      "name": "Coffee Shop Bop",
+      "description": "One person alone in a grey stairwell lip-dubs Sarah Maddack's \"Coffee Shop Bop\" at a handheld phone and acts out every line: a hop in, palms out, arms wide, one finger up, a lean on the rail and a scowl to finish.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/hideaway-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/hideaway-dance/poster.jpg?v=1793280282",
+      "name": "Hideaway Dance",
+      "description": "A night street of old stone: you sing the \"ooh, ah\" right into the phone in dark sunglasses and a white tee, spin away, then dance flat out in front of five friends doing the moves behind you, kick high and drop onto the street. Just you, or your pet.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/just-a-lil-bit-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/just-a-lil-bit-dance/poster.jpg?v=1793280282",
+      "name": "Just a Lil Bit Dance",
+      "description": "Three friends in a line on a rain-wet court, filmed full length from a phone low on the ground: heads down, then the same small, cool groove in perfect sync to 50 Cent's hook, ending with fingers pointing up. Just you, you and a friend, or all three.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/laughing-fairy-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/laughing-fairy/poster.jpg?v=1793280282",
+      "name": "Laughing Fairy",
+      "description": "Night, a phone flash, a mossy branch: you and your bestie as two tiny fairies with your own faces, one whispering a secret in the other's ear, and then both of you folding over in squeaky giggles.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/parrot-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/parrot-dance/poster.jpg?v=1793280282",
+      "name": "Parrot Dance",
+      "description": "Rows of green parrots in tiny white diapers dance in step in a barn, and your pet is the one out front the class follows: bouncing, flapping, turning to wiggle its tail at the lens, then facing the camera again as it pulls back wide.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/pray-for-me-slow-mo-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/pray-for-me-slow-mo/poster.jpg?v=1793280282",
+      "name": "Pray For Me Slow-Mo Run",
+      "description": "Friends charge one at a time down a breeze-block corridor in over-the-top slow motion to the slowed \"Pray For Me\": you open the run and come back to stare down the lens, and your friends can be the leopard-fleece runner, the one who turns to camera, and the hooded reveal that ends in a group hug.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/shaking-head-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/shaking-head/poster.jpg?v=1793280282",
+      "name": "Shaking Head",
+      "description": "Right up at the lens in a grey barn, the face squeezes its eyes shut, mouth closed, and slowly shakes side to side, then snaps its eyes wide open with the mouth open. Twice. Your pet, or you.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/shaving-cream-trend-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/shaving-cream-trend/poster.jpg?v=1793280282",
+      "name": "Shaving Cream Trend",
+      "description": "A deadpan selfie with a dab of shaving foam on the chin: you wipe it off, a foam-covered arm puts it back, and the camera whips to your partner covered head to chest in foam with two foam cat ears.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/wassup-in-a-minute-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/wassup-in-a-minute/poster.jpg?v=1793280282",
+      "name": "Wassup in a Minute",
+      "description": "You and up to three friends redrawn as hand-drawn manga characters in streetwear, cut-out stickers on plain white, swaying side to side in rhythm while each one takes a turn: the cash-fan flick, the ankle cross, the palm-up shrug, the nod.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
