@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261030T085809Z",
+  "counts": {
+    "active": 401,
+    "coming_soon": 18,
+    "rising": 4,
+    "sitemap": 420,
+    "total": 424
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/transmission-5-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/transmission-5-dance/poster.jpg?v=1793306871",
+      "name": "Transmission 5 Dance",
+      "description": "Two dancers side by side in a grey parking lot on an overcast day, filmed full length from a fixed camera: electro arm locks and hand passes at chest height, arm swings, deep wide squats and quick footwork in sync, then a lean in at the lens. Just you, or you and a friend.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
