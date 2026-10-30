@@ -1,0 +1,138 @@
+{
+  "generated_at": "20261030T194052Z",
+  "counts": {
+    "active": 415,
+    "coming_soon": 9,
+    "rising": 4,
+    "sitemap": 425,
+    "total": 429
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/ali-g-driving-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/ali-g-driving/poster.jpg?v=1793277815",
+      "name": "Ali G Car",
+      "description": "You at the wheel of a small, stripped-out old hatchback with a chunky light-blue steering wheel, straight-faced until the bass drops, then head-banging hard and pointing at the camera (or your dog or cat doing it, paws on the wheel).",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/anniversary-surprise-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/anniversary-surprise/poster.jpg?v=1792743455",
+      "name": "Anniversary Surprise",
+      "description": "At a candlelit table for two, your partner brings a bouquet of red roses round from behind your chair, you light up, and they lean down for a soft kiss on your cheek.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/bye-bye-outfit-change-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/bye-bye-outfit-change/poster.jpg?v=1793356406",
+      "name": "Bye Bye Trend",
+      "description": "You crack up laughing at the camera, stop dead, wave \"bye bye\" with both hands, sweep a hand over the lens, and come back from behind it in full clown face paint, staring.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/dirty-dancing-lift-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/dirty-dancing-lift/poster.jpg?v=1793277815",
+      "name": "Dirty Dancing Lift",
+      "description": "The famous lake lift from Dirty Dancing, starring you: waist-deep in a lake at golden hour, you lift your cat or dog (or your partner) straight up overhead, held level like a plane, then bring them down into a hug.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/fuzzy-dream-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/fuzzy-dream-dance/poster.jpg?v=1793356406",
+      "name": "Fuzzy Dream Dance",
+      "description": "One dancer in a sunny backyard under a blue roof: a loose bounce, a quick turn, then the deep, wide skeur squat held low with arm winds, hands on the head, shaking knees and an arm thrown up. Just you.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/hop-hop-hop-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/hop-hop-hop-dance/poster.jpg?v=1793356406",
+      "name": "Hop Hop Hop Dance",
+      "description": "Two friends in a narrow white hallway: one stands close to the phone and points back at the other, who bounces on the spot far behind until a flat hand pats the air and squashes them down into a crouch; then a hard cut swaps them and it happens the other way round.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/i-hope-he-buys-you-flowers-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/i-hope-he-buys-you-flowers/poster.jpg?v=1793356406",
+      "name": "I Hope He Buys You Flowers",
+      "description": "An arm's-length selfie in a sunny park: a green stem pokes out of your nose, you pinch it and pull out a little white daisy, then hold it up to the lens. The flower nose trend, with your face.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/lil-t-jones-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/lil-t-jones-dance/poster.jpg?v=1793356406",
+      "name": "Lil T Jones Dance",
+      "description": "One dancer alone in a plain grey apartment hallway, filmed full length on a phone propped at the far end: a 22-second solo routine to the Lil T Jones sound, from the backward walk-in with a hand shading the eyes to the arms flung wide at the finish.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/lion-king-lift-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/lion-king-lift/poster.jpg?v=1793277883",
+      "name": "Lion King Lift",
+      "description": "Your pet held high over the savanna at sunrise from the tip of a jutting rock, the herds gathered below. Or you do the lifting.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/phone-on-train-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/phone-on-train/poster.jpg?v=1793277816",
+      "name": "Phone on the Train",
+      "description": "Filmed from a phone stuck to the outside of a metro train window: you sing to it on the night platform, the train pulls out, you run alongside still singing, and then you fall behind and the platform lights stream past.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/rocky-steps-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/rocky-steps/poster.jpg?v=1792920818",
+      "name": "Rocky Steps",
+      "description": "Run up the great stone museum steps at dawn in a grey sweatsuit and finish fists up at the top, the whole city behind you, in the style of the steps scene from Rocky (1976), or send your dog or cat bounding up instead.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/singin-in-the-rain-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/singin-in-the-rain/poster.jpg?v=1792920818",
+      "name": "Singin' in the Rain",
+      "description": "A night street in the pouring rain: you swing out one-handed from an old lamppost with a closed umbrella in the other hand, grinning, then splash through the puddles (or your pet does it with a tiny umbrella).",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/snicker-cat-driving-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/snicker-cat-driving/poster.jpg?v=1793177503",
+      "name": "Snicker Cat Driving",
+      "description": "Your cat or dog sits at the wheel of a car on a sunny suburban street, steering with one paw, pulls a casual one-paw park into the kerb, then looks straight into the camera with a slow, smug, eyes-half-closed snicker. Add yourself and you ride shotgun.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/toosie-slide-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/toosie-slide/poster.jpg?v=1793277816",
+      "name": "Toosie Slide",
+      "description": "In a long hotel corridor at night you do the Toosie Slide: one knee up while the other foot glides back, switch sides, a criss-cross, arms swinging wide, a quick dip and a smooth glide toward the camera. Or a friend joins in sync, or your dog or cat does it on its hind legs.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    }
+  ]
+}
