@@ -1,0 +1,30 @@
+{
+  "generated_at": "20261031T184437Z",
+  "counts": {
+    "active": 421,
+    "coming_soon": 8,
+    "rising": 4,
+    "sitemap": 430,
+    "total": 434
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/birds-of-a-feather-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/birds-of-a-feather/poster.jpg?v=1793436872",
+      "name": "Birds of a Feather",
+      "description": "You, lying back in a chrome office chair that an unseen force drags and tips across an empty wood-panelled office, filmed from straight above as the frame slowly turns and you look up into the lens: the chair scene from Billie Eilish's Birds of a Feather video. Just you.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/dog-bartender-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/dog-bartender/poster.jpg?v=1793436872",
+      "name": "Dog Bartender",
+      "description": "Your pet (or you) stands behind a kitchen counter in tiny round glasses and a white bib and makes a 1$ cola, a 5$ cola on ice and a ridiculous 50$ cocktail: carved ice, a shaker, broccoli, a sparkler and a giant bottle.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
