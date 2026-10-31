@@ -1,0 +1,48 @@
+{
+  "generated_at": "20261031T085112Z",
+  "counts": {
+    "active": 419,
+    "coming_soon": 8,
+    "rising": 4,
+    "sitemap": 428,
+    "total": 432
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/car-alarm-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/car-alarm-dance/poster.jpg?v=1793435414",
+      "name": "Car Alarm Dance",
+      "description": "A dog by a red car on a night street stands up on its hind legs when the car alarm goes off and dances to the beat, paw up, high knees, big hops, then paws together at its chest. Your pet takes its place, or you do.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/cardo-dinner-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/cardo-dinner/poster.jpg?v=1793436355",
+      "name": "Cardo Dinner",
+      "description": "A living room at night, a phone fixed on the table behind a giant plate of red spicy-crusted egg rolls: a person in a black apron announces that dinner is ready and waves at the pile, a friend in a plain black T-shirt leans in to look, and after a cut the friend sits chewing while the apron person dips a roll in yellow nacho cheese and feeds it straight into their mouth.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/coffee-making-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/coffee-making/poster.jpg?v=1793436326",
+      "name": "Coffee Making",
+      "description": "Two of you (or your pets) stand up at a glossy kitchen counter making coffee: grounds everywhere, the kettle poured from the left, then the milk floods the counter while the one in front lifts the red mug.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/glasses-try-on-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/glasses-try-on/poster.jpg?v=1792752268",
+      "name": "Glasses Try-On",
+      "description": "You, in a new pair of frames: round wire, bold black, cat-eye or clear. You nudge them up your nose, turn to show the side and smile at the camera.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    }
+  ]
+}
