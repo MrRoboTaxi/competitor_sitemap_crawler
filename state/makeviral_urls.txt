@@ -57,6 +57,7 @@ https://www.makeviral.ai/templates/ai-red-riding-hood
 https://www.makeviral.ai/templates/ai-rumpelstiltskin-dance
 https://www.makeviral.ai/templates/ai-school-photo
 https://www.makeviral.ai/templates/ai-steroids-filter
+https://www.makeviral.ai/templates/ai-text-prank
 https://www.makeviral.ai/templates/ai-werewolf-transformation
 https://www.makeviral.ai/templates/ai-witch-video
 https://www.makeviral.ai/templates/ai-zombie-trend
@@ -128,6 +129,7 @@ https://www.makeviral.ai/templates/couple-eye-initials-ai-trend
 https://www.makeviral.ai/templates/couple-thriller-ai-trend
 https://www.makeviral.ai/templates/crazy-frog-ai-trend
 https://www.makeviral.ai/templates/damon-salvatore-ai-trend
+https://www.makeviral.ai/templates/dark-mirror-reflection-ai-trend
 https://www.makeviral.ai/templates/dayimin-cocuklari-ai-trend
 https://www.makeviral.ai/templates/deep-down-in-my-heart-ai-trend
 https://www.makeviral.ai/templates/devil-wears-prada-ai-trend
@@ -156,6 +158,7 @@ https://www.makeviral.ai/templates/gender-swap-ai-filter
 https://www.makeviral.ai/templates/ghost-filter-prank-ai-trend
 https://www.makeviral.ai/templates/ghostface-ai-trend
 https://www.makeviral.ai/templates/giant-bed-ai-trend
+https://www.makeviral.ai/templates/giant-ramp-climbing-ai-trend
 https://www.makeviral.ai/templates/glitch-makeup-ai-transition
 https://www.makeviral.ai/templates/gomlegi-cekete-donusen-adam-ai
 https://www.makeviral.ai/templates/grandma-parkour-ai-trend
@@ -244,6 +247,7 @@ https://www.makeviral.ai/templates/raindance-ai-trend
 https://www.makeviral.ai/templates/ramalama-ai-trend
 https://www.makeviral.ai/templates/reverse-hurdle-ai-trend
 https://www.makeviral.ai/templates/robot-girl-ai-trend
+https://www.makeviral.ai/templates/rugrats-cartoon-ai-filter
 https://www.makeviral.ai/templates/run-fast-ai-effect
 https://www.makeviral.ai/templates/ryuk-ai-trend
 https://www.makeviral.ai/templates/sawadika-dance-ai-trend
@@ -258,7 +262,9 @@ https://www.makeviral.ai/templates/skyfall-ai-trend
 https://www.makeviral.ai/templates/slap-everyone-ai-trend
 https://www.makeviral.ai/templates/smalltown-boy-ai-dance
 https://www.makeviral.ai/templates/smash-and-grab-ai-trend
+https://www.makeviral.ai/templates/smooth-criminal-dance-ai-trend
 https://www.makeviral.ai/templates/sniffer-dog-ai-trend
+https://www.makeviral.ai/templates/snow-leopard-paws-at-you-ai
 https://www.makeviral.ai/templates/south-park-ai-filter
 https://www.makeviral.ai/templates/spooky-scary-skeletons-ai-dance
 https://www.makeviral.ai/templates/squishy-ai-trend
