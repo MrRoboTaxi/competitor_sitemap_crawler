@@ -1,0 +1,48 @@
+{
+  "generated_at": "20261101T094155Z",
+  "counts": {
+    "active": 425,
+    "coming_soon": 8,
+    "rising": 4,
+    "sitemap": 434,
+    "total": 438
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/dark-mirror-reflection-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/dark-mirror-reflection/poster.jpg?v=1793524502",
+      "name": "Mirror Panther",
+      "description": "Night, a black marble bathroom lit in gold: you stand with your palm on the mirror and look back over your shoulder, while a black panther in the glass presses its paw to your hand, eyes glowing amber.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/giant-ramp-climbing-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/giant-ramp-climbing/poster.jpg?v=1793524502",
+      "name": "Giant Ramp Climbing",
+      "description": "You sprint across a wet concrete floor and straight up the huge curved wall of a dam in front of a packed grandstand, flip off the railing at the top, slide back down in a burst of spray and come up to the camera shouting with your fists in the air.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/smooth-criminal-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/smooth-criminal-dance/poster.jpg?v=1793525287",
+      "name": "Smooth Criminal Dance",
+      "description": "Two dancers in navy tank tops and wide light trousers on a paved path in front of a row of green trees, filmed from a phone on the ground, do the 15-second Smooth Criminal routine in sync: a hand at the neck, a lean and a kick, both hands up over the head, side glides and wide-stance arm shapes.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/strike-a-pole-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/strike-a-pole/poster.jpg?v=1793524502",
+      "name": "Strike a Pole",
+      "description": "Your two pets up on their hind legs on a garden brick path: one swings round an old black lamp post, then the other cuts in and they dance as a pair.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
