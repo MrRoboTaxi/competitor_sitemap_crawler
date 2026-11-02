@@ -1,0 +1,30 @@
+{
+  "generated_at": "20261102T225232Z",
+  "counts": {
+    "active": 431,
+    "coming_soon": 8,
+    "rising": 4,
+    "sitemap": 440,
+    "total": 444
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/end-of-watch-locker-scene-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/end-of-watch-locker-scene/poster.jpg?v=1793655673",
+      "name": "End of Watch Locker Scene",
+      "description": "You're the cop filming yourself in the locker room: a grin into the camera with your partner leaning in, then your gear held up to the lens one piece at a time.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/pick-it-up-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/pick-it-up-dance/poster.jpg?v=1793615105",
+      "name": "Pick It Up Dance",
+      "description": "Two friends dance the Pick It Up routine side by side in a bright unfinished office corridor, filmed on a fixed phone: hands locked over the head, a turn to show their backs and bounce, a turn back round with arms out, and a wide low squat to finish.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
