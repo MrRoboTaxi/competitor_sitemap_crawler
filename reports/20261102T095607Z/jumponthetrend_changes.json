@@ -1,0 +1,48 @@
+{
+  "generated_at": "20261102T095607Z",
+  "counts": {
+    "active": 429,
+    "coming_soon": 8,
+    "rising": 4,
+    "sitemap": 438,
+    "total": 442
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/car-christmas-lights-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/car-christmas-lights/poster.jpg?v=1793610659",
+      "name": "Christmas Lights Car",
+      "description": "Your own car parked in the snow at blue hour, wrapped in warm string lights, snow falling, a lit-up house behind: the holiday card shot, moving.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/jisoo-addicted-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/jisoo-addicted-dance/poster.jpg?v=1793564161",
+      "name": "Jisoo Addicted Dance",
+      "description": "Two friends dance to Jisoo's \"ADDICTED\" in a bright white hallway with a warm light strip and dark wooden doors, filmed on a handheld phone: one in a brown leather cropped top and light blue jeans, one in a light grey long-sleeve top and black trousers, taking turns at the lens, leaning on each other's shoulders laughing, then finishing side by side with the same hand moves at the face.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/leo-cheers-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/leo-cheers/poster.jpg?v=1793610158",
+      "name": "Leo Cheers Meme",
+      "description": "You're Gatsby at the party: you look up into the camera, then raise the champagne coupe as the fireworks go off.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/mabel-matiz-umrumdisi-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/mabel-matiz-umrumdisi/poster.jpg?v=1793610792",
+      "name": "Mabel Matiz Umrumdışı",
+      "description": "In a cream music classroom with a row of ukuleles on the wall, the singer stands upright at a black keyboard and sings \"Umrumdışı\" to the ceiling, head tipped back, while the pianist in a black wristwatch conducts with both hands, then plays the keys and looks up at the singer.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
