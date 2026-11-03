@@ -1,0 +1,102 @@
+{
+  "generated_at": "20261103T203858Z",
+  "counts": {
+    "active": 441,
+    "coming_soon": 8,
+    "rising": 4,
+    "sitemap": 450,
+    "total": 454
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/24k-magic-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/24k-magic/poster.jpg?v=1793703724",
+      "name": "24K Magic",
+      "description": "You tug your collar in the doorway, then dance alone on the sunny deck of a cruise ship while your friend watches in disbelief, grins, and ends up cheering from a white quilted bag.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/58th-floor-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/58th-floor/poster.jpg?v=1793704104",
+      "name": "58th Floor",
+      "description": "You and a friend rap the 58th Floor COLORS session: the bright teal studio, one silver mic hanging between you, trading the song back and forth.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/bicep-heart-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/bicep-heart/poster.jpg?v=1793703724",
+      "name": "Bicep Heart",
+      "description": "You push up a sleeve, flex one arm and curl your other hand over the bicep, and the two arms make a heart while you smile at the camera.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/chipmunks-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/chipmunks-dance/poster.jpg?v=1793703724",
+      "name": "Chipmunks Dance",
+      "description": "You and two friends in the chipmunk-ears trio routine: each of you takes the front in turn for a hair flip or a blown kiss, then all three groove in a line and dance right up to the camera.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/closing-door-prank-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/closing-door-prank/poster.jpg?v=1793703724",
+      "name": "Closing Door Prank",
+      "description": "You're the runner in the fake closing door prank: you sprint down the hallway, the door swings shut as you get there, and somehow you burst out on the camera side and slide across the floor.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/first-time-fancy-cafe-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/first-time-fancy-cafe/poster.jpg?v=1793703724",
+      "name": "First Time in a Fancy Cafe",
+      "description": "Your first time in a fancy cafe: you sit up on top of the tiny steel table like it's a stool, until someone walks in, sits on the bench and uses it as a table, and you quietly climb down.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/quiet-on-the-creek-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/quiet-on-the-creek/poster.jpg?v=1793703724",
+      "name": "Quiet on the Creek",
+      "description": "Two friends do the Quiet on the Creek dance side by side in an empty car park at night: hands fluttering over the mouth, a finger to the lips for the shush, then palms up by the shoulders swaying with a head tilt, and a bouncing step to the camera.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/sidewalk-collision-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/sidewalk-collision/poster.jpg?v=1793737725",
+      "name": "Sidewalk Collision",
+      "description": "You power-walk across a sunny city plaza with a coffee and your phone, a passer-by clips your shoulder, and your coffee, sunglasses and phone fly up in bullet-time slow motion before you stand there unbothered.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/stateside-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/stateside-dance/poster.jpg?v=1793704104",
+      "name": "Stateside Dance",
+      "description": "You and a friend dance the Stateside routine in a bright living room, filmed on a fixed phone: hands clasped over your head, hip pops, arms out wide, a turn and a kick, the head thrown back and arms open to finish.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/trouble-maker-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/trouble-maker-dance/poster.jpg?v=1793704452",
+      "name": "Trouble Maker Dance",
+      "description": "Two dancers in a pink-lit dance studio do the flirty Trouble Maker duet: one in a pale pink thin-strap mini dress, one in a striped shirt and black waistcoat, leaning in face to face, swaying hip to hip side by side, then one steps in front while the other dances behind, hands at the waist.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
