@@ -1,0 +1,93 @@
+{
+  "generated_at": "20261104T205541Z",
+  "counts": {
+    "active": 450,
+    "coming_soon": 7,
+    "rising": 4,
+    "sitemap": 458,
+    "total": 462
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/3d-month-letters-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/3d-month-letters/poster.jpg?v=1793789184",
+      "name": "3D Month Letters",
+      "description": "You, full length in a soft pastel studio, leaning on a column of giant glossy 3D balloon letters that spell NOVEMBER from top to bottom.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/christmas-pfp-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/christmas-pfp/poster.jpg?v=1793789184",
+      "name": "Christmas PFP",
+      "description": "You, the two of you or your pet in a red Santa hat with falling snow and warm fairy lights: a square Christmas profile picture that still looks exactly like you.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/convertible-coffee-drive-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/convertible-coffee-drive/poster.jpg?v=1793789184",
+      "name": "Convertible Coffee Drive",
+      "description": "You drive an open-top convertible with red leather seats past glass towers: you lift a takeaway coffee, take a sip and talk with your hands, filmed low from the passenger seat.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/dog-coffee-fail-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/dog-coffee-fail/poster.jpg?v=1793789184",
+      "name": "Dog Coffee Fail",
+      "description": "Your two pets (or you and your pet) play baristas at a glossy black kitchen counter: one pours the kettle, the little one spoons coffee everywhere, the milk floods the counter, and the big one covers its eyes.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/last-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/last-dance/poster.jpg?v=1793789184",
+      "name": "Last Dance",
+      "description": "You two in the Last Dance trend: leaning into the camera head to head on a grey autumn day, then stepping back across a leafy backyard lawn, joining one hand each, flinging your free arms wide and spinning round each other to \"The Last Dance\".",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/like-jennie-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/like-jennie/poster.jpg?v=1793795675",
+      "name": "Like JENNIE Dance",
+      "description": "You lead about thirty backup dancers in black through a sharp K-pop-style routine in a bright all-white studio with a glossy floor: a head flick and a point at the camera, a spin together, then the crew drops into a ring around you, seen from above.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/lonyo-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/lonyo-dance/poster.jpg?v=1793824704",
+      "name": "Lonyo Dance",
+      "description": "You lead about thirty adult dancers in grey on a big painted sports court in low golden sun: it opens close on your face looking up into the lens, then the camera shoots straight up and the whole crew bounces, swings and leans in unison around you.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/stadium-calm-down-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/stadium-calm-down/poster.jpg?v=1793789184",
+      "name": "Stadium Calm Down",
+      "description": "You're the one calm person in a roaring football stadium: you turn your back on the jumping crowd, walk slowly to the camera and press both palms down. Calm down.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/the-one-who-knocks-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/the-one-who-knocks/poster.jpg?v=1793789184",
+      "name": "The One Who Knocks",
+      "description": "You're Walter White in the bedroom: \"I am the danger\", \"I am the one who knocks\", then one long, silent stare into the camera.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
