@@ -1,0 +1,75 @@
+{
+  "generated_at": "20261105T211304Z",
+  "counts": {
+    "active": 457,
+    "coming_soon": 4,
+    "rising": 4,
+    "sitemap": 462,
+    "total": 466
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/flamingo-float-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/flamingo-float/poster.jpg?v=1793875234",
+      "name": "Flamingo Float",
+      "description": "You're lounging on a giant pink flamingo float in a rooftop infinity pool high above the city, eyes on your phone, drifting right to the edge, until a hand reaches in and pushes you back. Thank you, bro.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/lil-yachty-walkout-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/lil-yachty-walkout/poster.jpg?v=1793875234",
+      "name": "Lil Yachty Walkout",
+      "description": "The hardest walk out ever, with your face: you stride out from backstage, throw the mic up and high-step down a long runway into a huge festival crowd.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/mom-dad-sister-brother-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/mom-dad-sister-brother/poster.jpg?v=1793872061",
+      "name": "Mom Dad Sister Brother",
+      "description": "You flick a little red heart to Mom, Dad and Sister, run out of hearts for Brother, shrug, and give him your own big heart from your chest.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/parking-lot-karen-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/parking-lot-karen/poster.jpg?v=1793872061",
+      "name": "Parking Lot Karen",
+      "description": "In a sunny shopping-centre car park you lose it over an empty parking space: you jab at it, throw your arms wide, stomp, then march at the phone with a palm up to stop the filming.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/party-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/party-dance/poster.jpg?v=1793872061",
+      "name": "Party Viral Dance",
+      "description": "You sway past a row of clapping guests in a lamp-lit party hall, glide along the line, then jump, kick and spin on the open floor.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/police-chase-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/police-chase/poster.jpg?v=1793875234",
+      "name": "Police Chase",
+      "description": "You're the one on the run: you sprint at the camera through a crowded fruit market, fly over the road onto the roof of a moving red bus, and end up standing on a billboard frame, looking down.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/somebody-that-i-used-to-know-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/trends/somebody-that-i-used-to-know/poster.jpg?v=1793875234",
+      "name": "Somebody That I Used To Know",
+      "description": "You and a friend in front of a flat patchwork wall of pink, cream and grey shapes: you sing the Gotye and Kimbra breakup duet straight to the camera while they sing back to you side-on.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
