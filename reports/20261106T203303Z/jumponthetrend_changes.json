@@ -1,0 +1,84 @@
+{
+  "generated_at": "20261106T203303Z",
+  "counts": {
+    "active": 465,
+    "coming_soon": 1,
+    "rising": 4,
+    "sitemap": 467,
+    "total": 471
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/ba-ba-ba-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/ba-ba-ba-dance.webp?v=1793974924",
+      "name": "Ba Ba Ba Dance",
+      "description": "You and a friend in an empty hallway of pale blue lockers: one dances the first half alone, the other takes over for the second half, then you dance it side by side to the Don't You Worry 'Bout a Thing mashup.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/beard-try-on-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/beard-try-on.webp?v=1792743455",
+      "name": "Beard Try-On",
+      "description": "You, with a full beard, stubble or a goatee you don't have, stroke it, turn to show it off and grin at the camera.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/bestie-birthday-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/bestie-birthday.webp?v=1792780381",
+      "name": "Bestie Birthday",
+      "description": "Your best friend stands beside you at a night party, pops a gold confetti cannon high over your heads, shouts \"Happy birthday!\" and pulls you in, heads together, laughing at the camera.",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/buggin-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/buggin-dance.webp?v=1793964676",
+      "name": "Buggin Dance",
+      "description": "A chubby wizard cat dances on a night beach to \"She Bugging\": salutes, kicks and two wide, low drops. Your pet takes its place in the starry hat and bell collar, or you do, in the hat.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/christmas-morning-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/christmas-morning.webp?v=1792845754",
+      "name": "Christmas Morning",
+      "description": "Christmas morning in your pyjamas by the lit tree: you tear the red paper off a present, lift out a soft knitted scarf and light up with surprise (with your partner beside you, or your pet ripping the paper itself).",
+      "previous_status": "coming_soon",
+      "event": "upgrade"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/fish-cutting-meme-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/fish-cutting-meme.webp?v=1793964676",
+      "name": "Fish Cutting Meme",
+      "description": "You stand at a kitchen counter in a black cowboy hat and chop a giant fish with a huge cleaver, cut after dead-even cut, or your dog or cat does.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/its-my-life-dog-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/its-my-life-dog.webp?v=1793964676",
+      "name": "It's My Life Dog",
+      "description": "A split screen: the highway rolls by on top, and below your dog, your cat or you, buckled into the front seat, sing \"It's My Life\", stop dead, slip on black sunglasses and sing on.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/pimpwalk-entrance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/pimpwalk-entrance.webp?v=1793964676",
+      "name": "Pimpwalk Entrance",
+      "description": "The door's open, your friend is grooving beside it, and you come in with a slow, low, leaned-back strut, sink almost to the floor, then rise to full height, fan your face with a red card and finish chin up.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
