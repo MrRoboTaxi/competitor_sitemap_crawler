@@ -1,0 +1,57 @@
+{
+  "generated_at": "20261107T091405Z",
+  "counts": {
+    "active": 470,
+    "coming_soon": 1,
+    "rising": 4,
+    "sitemap": 472,
+    "total": 476
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/birthday-car-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/birthday-car.webp?v=1794042726",
+      "name": "Birthday Car",
+      "description": "A boxy SUV pulls up right behind your birthday cake, you lean out of the driver's window, blow out every candle in one breath, and the picture turns black and white.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/diwali-fireworks-transition-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/diwali-fireworks-transition.webp?v=1794042468",
+      "name": "Diwali Fireworks Transition",
+      "description": "You sweep a sheer red dupatta across the lens under a blue sky, the day whips into night, and you spin in a red and gold lehenga under golden Diwali fireworks, then look back over your shoulder. Or your pet does.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/dog-bohemian-rhapsody-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/dog-bohemian-rhapsody.webp?v=1794042468",
+      "name": "Dog Bohemian Rhapsody",
+      "description": "Your dog or cat sits at a black grand piano on a dark stadium stage and sings Bohemian Rhapsody into the microphone, eyes shut, until the camera is right in its face and it opens its eyes at you. Or you do.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/dog-couple-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/dog-couple-dance.webp?v=1794042468",
+      "name": "Dog Couple Dance",
+      "description": "One of you hops and dances by the bed while the other stands up filming it on a phone, kicking along: two pets, the two of you, or you and your pet.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/dog-elevator-prank-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/dog-elevator-prank.webp?v=1794042468",
+      "name": "Dog Elevator Prank",
+      "description": "A giant dog walks upright beside you to the lift, slaps the back of your neck, presses the button, then boots you into the lift with a hind paw and throws your sneakers in after you. Your pet can play the dog.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
