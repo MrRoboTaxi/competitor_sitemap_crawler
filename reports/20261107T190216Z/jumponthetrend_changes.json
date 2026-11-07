@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261107T190216Z",
+  "counts": {
+    "active": 471,
+    "coming_soon": 1,
+    "rising": 4,
+    "sitemap": 473,
+    "total": 477
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/can-i-ride-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/can-i-ride-dance.webp?v=1794044653",
+      "name": "Can I Ride Dance",
+      "description": "Two friends side by side in a parking lot at dusk bounce through the same quick Can I Ride routine in sync, clap and wave up by their heads, and finish with one throwing both hands up.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
