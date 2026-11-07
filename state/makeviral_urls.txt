@@ -11,6 +11,7 @@ https://www.makeviral.ai/templates/ai-aging-filter
 https://www.makeviral.ai/templates/ai-airport-star-arrival
 https://www.makeviral.ai/templates/ai-arrest-trend
 https://www.makeviral.ai/templates/ai-baby-dance
+https://www.makeviral.ai/templates/ai-baby-gangster
 https://www.makeviral.ai/templates/ai-barn-find-truck-trend
 https://www.makeviral.ai/templates/ai-beer-jacket-trend
 https://www.makeviral.ai/templates/ai-bob-haircut-filter
@@ -132,6 +133,7 @@ https://www.makeviral.ai/templates/champagne-birthday-ai-trend
 https://www.makeviral.ai/templates/champagne-car-window-ai-trend
 https://www.makeviral.ai/templates/charlie-brown-christmas-ai-trend
 https://www.makeviral.ai/templates/charme-dance-ai-trend
+https://www.makeviral.ai/templates/chased-by-hyenas-ai-trend
 https://www.makeviral.ai/templates/chat-gtt-lookin-ahh-ai
 https://www.makeviral.ai/templates/chatgpt-millionaire-ai-trend
 https://www.makeviral.ai/templates/check-one-check-two-ai-filter
@@ -150,6 +152,7 @@ https://www.makeviral.ai/templates/coldplay-affair-ai-trend
 https://www.makeviral.ai/templates/convertible-coffee-drive-ai-trend
 https://www.makeviral.ai/templates/coraline-ai-trend
 https://www.makeviral.ai/templates/corpse-bride-ai-trend
+https://www.makeviral.ai/templates/counting-money-meme-ai
 https://www.makeviral.ai/templates/couple-back-tattoo-ai-trend
 https://www.makeviral.ai/templates/couple-eye-initials-ai-trend
 https://www.makeviral.ai/templates/couple-thriller-ai-trend
@@ -228,6 +231,7 @@ https://www.makeviral.ai/templates/i-dont-listen-to-opinions-baby-dance
 https://www.makeviral.ai/templates/i-just-beat-the-case-ai-trend
 https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend
 https://www.makeviral.ai/templates/i-put-my-heart-in-this-ai-trend
+https://www.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend
 https://www.makeviral.ai/templates/i-wanna-love-you-ai-pet
 https://www.makeviral.ai/templates/i-want-wings-ai-trend
 https://www.makeviral.ai/templates/illit-youre-under-arrest-ai-dance
@@ -298,6 +302,7 @@ https://www.makeviral.ai/templates/passenger-princess-ai-trend
 https://www.makeviral.ai/templates/patrick-swayze-dance-ai-trend
 https://www.makeviral.ai/templates/perdon-ai-photo-trend
 https://www.makeviral.ai/templates/permission-to-cry-sir-ai-trend
+https://www.makeviral.ai/templates/pet-rock-dance-ai-trend
 https://www.makeviral.ai/templates/pet-seal-filter-ai
 https://www.makeviral.ai/templates/pets-making-coffee-ai-trend
 https://www.makeviral.ai/templates/phone-on-train-trend
@@ -321,6 +326,7 @@ https://www.makeviral.ai/templates/robot-girl-ai-trend
 https://www.makeviral.ai/templates/rugrats-cartoon-ai-filter
 https://www.makeviral.ai/templates/run-fast-ai-effect
 https://www.makeviral.ai/templates/ryuk-ai-trend
+https://www.makeviral.ai/templates/santa-sleigh-ai-trend
 https://www.makeviral.ai/templates/sawadika-dance-ai-trend
 https://www.makeviral.ai/templates/shaking-head-ai-trend
 https://www.makeviral.ai/templates/shan-shen-bu-ai-dance
@@ -350,6 +356,7 @@ https://www.makeviral.ai/templates/stones-to-castle-ai-trend
 https://www.makeviral.ai/templates/storm-ai-trend
 https://www.makeviral.ai/templates/street-light-slide-ai-effect
 https://www.makeviral.ai/templates/strike-a-pole-ai-trend
+https://www.makeviral.ai/templates/suave-cat-dance-ai
 https://www.makeviral.ai/templates/subway-outfit-change-ai-trend
 https://www.makeviral.ai/templates/susan-dell-dance-ai
 https://www.makeviral.ai/templates/symmetry-filter-ai
