@@ -1,0 +1,57 @@
+{
+  "generated_at": "20261108T190645Z",
+  "counts": {
+    "active": 476,
+    "coming_soon": 1,
+    "rising": 4,
+    "sitemap": 478,
+    "total": 482
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/christmas-lights-wife-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/christmas-lights-wife.webp?v=1794164468",
+      "name": "Christmas Lights Wife",
+      "description": "One of you calmly grabs a can from the fridge while the other, in red Christmas pyjamas, sprints across the doorway behind with garland and string lights; the lights are left on the floor and the one at the fridge gives the camera a raised-eyebrow look.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/i-love-the-smiths-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/i-love-the-smiths.webp?v=1794164468",
+      "name": "I Love the Smiths",
+      "description": "In a dim office lift, one of you stands in big headphones while the other says 'I love the Smiths'; the headphones come down, 'Sorry?', the line comes again, and you share a long look and a smile.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/i-want-wings-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/i-want-wings.webp?v=1794164468",
+      "name": "I Want Wings",
+      "description": "The I Want Wings glow-up with your face: you slumped on a bench eating a snack under a cockroach sticker and \"Ew squish it!\", a black screen full of butterflies, then a quick golden-hour montage of you glowing, each shot stamped with a monarch butterfly and \"Be gentle\".",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/manhattan-fpv-drone-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/manhattan-fpv-drone.webp?v=1794164468",
+      "name": "Manhattan FPV Drone",
+      "description": "A racing drone dives off the top of the Manhattan skyline, rips down an avenue past yellow taxis, swings onto the sidewalk and lands right in front of you, coffee in hand, looking down the lens.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/vossi-bop-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/vossi-bop.webp?v=1794164468",
+      "name": "Vossi Bop",
+      "description": "You rap alone in the middle of an empty Westminster Bridge at dawn while the camera circles you, the London Eye, Parliament and Big Ben's clock tower sliding past behind. Or your dog or cat does it, upright on its hind legs.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
