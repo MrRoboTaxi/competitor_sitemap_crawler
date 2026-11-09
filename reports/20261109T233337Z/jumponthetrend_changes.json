@@ -1,0 +1,75 @@
+{
+  "generated_at": "20261109T233337Z",
+  "counts": {
+    "active": 483,
+    "coming_soon": 1,
+    "rising": 4,
+    "sitemap": 485,
+    "total": 489
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/christmas-pajama-duo-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/christmas-pajama-duo-dance.webp?v=1794233585",
+      "name": "Christmas Pajama Dance",
+      "description": "The two of you in matching pink-and-green plaid Christmas pyjamas do the 14-second Christmas dance side by side in a bright white kitchen: hip sways, hands at the collar, rolling arms, a kick, a quick spin and raised fists, ending right up close to the camera.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/easy-a-pocketful-of-sunshine-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/easy-a-pocketful-of-sunshine.webp?v=1794233825",
+      "name": "Easy A Pocketful of Sunshine",
+      "description": "You sing the same song all weekend: at a sunlit window waving a greeting card, into the shower head like a microphone, with your soapy hair pushed up into a mohawk, then dancing round your room at night. Or your dog or cat does it.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/i-need-a-girl-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/i-need-a-girl-dance.webp?v=1794233538",
+      "name": "I Need a Girl Dance",
+      "description": "Two friends in a night car park film themselves up close: one says the song's spoken intro to the camera, both throw peace signs and lean in, then the beat drops into big arm swings, knee bounces, claps and a two-finger salute.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/i-thought-we-were-having-a-nice-date-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/i-thought-we-were-having-a-nice-date.webp?v=1794239240",
+      "name": "I Thought We Were Having a Nice Date",
+      "description": "On a dinner date in a dim restaurant booth, one of you starts giggling 'no, no, no', stands up laughing at the end of the table, and while the other begs 'we are, we are', the laugh crumples into tears on 'I thought we were having a nice date'.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/ice-ice-baby-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/ice-ice-baby-dance.webp?v=1794222917",
+      "name": "Ice Ice Baby Dance",
+      "description": "Two dancers in loud 90s windbreakers and baggy pants on a wet winter basketball court, bare trees and a grey sky behind, groove in sync to Ice Ice Baby in one 9-second take: nods, a raised hand, knee lifts, hands at the belt and a low wide-kneed bounce.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/shoulder-carry-im-the-one-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/shoulder-carry-im-the-one.webp?v=1794222917",
+      "name": "Shoulder Carry (I'm the One)",
+      "description": "In a grey underground car park, one person faces the phone carrying a friend draped across their shoulders, platform boots kicking, points at the lens, then turns and bends over as the friend swings up on top and owns the camera, mouthing 'I'm the one'.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/tough-like-a-gorilla-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/tough-like-a-gorilla.webp?v=1794222917",
+      "name": "Tough Like a Gorilla",
+      "description": "You sing the gorilla line straight at the camera, push a palm in your friend's face, then hold up a tortilla, or you're the shocked face at the back whose jaw drops.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
