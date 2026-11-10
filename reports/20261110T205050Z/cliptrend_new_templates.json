@@ -1,0 +1,30 @@
+{
+  "generated_at": "20261110T205050Z",
+  "count": 4,
+  "templates": [
+    {
+      "url": "https://cliptrend.ai/templates/christmas-pet-photo-ai",
+      "name": "Christmas Pet Photo AI",
+      "description": "Create a festive photo of your dog or cat.",
+      "credits": "3 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/templates/female-malfoy-ai",
+      "name": "Female Malfoy AI",
+      "description": "Turn your portrait into a fantasy academy photo.",
+      "credits": "3 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/templates/hop-hop-hop-ai",
+      "name": "Hop Hop Hop AI",
+      "description": "Turn one photo of two people into a hopping and swapping dance.",
+      "credits": "87 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/templates/hop-hop-hop-ai-two-photos",
+      "name": "Hop Hop Hop AI: Two Photos",
+      "description": "Turn two individual photos into a hopping and swapping dance.",
+      "credits": "87 credits"
+    }
+  ]
+}
