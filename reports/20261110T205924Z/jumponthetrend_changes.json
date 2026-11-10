@@ -1,0 +1,84 @@
+{
+  "generated_at": "20261110T205924Z",
+  "counts": {
+    "active": 491,
+    "coming_soon": 1,
+    "rising": 4,
+    "sitemap": 493,
+    "total": 497
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/90s-rom-com-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/90s-rom-com.webp?v=1794311571",
+      "name": "90s Rom Com",
+      "description": "A 90s rom-com scene outside a glowing hotel at night: one of you asks for the other's number, gets it, calls it on a chunky old mobile, and the man in a camel coat behind them answers, and the one who gave it walks off hand in hand with him, looking back.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/careless-whisper-car-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/careless-whisper-car.webp?v=1794311571",
+      "name": "Careless Whisper Car",
+      "description": "Three friends in a parked car, filmed from the dashboard: the driver sneaks a chip, the back-seat friend steals the whole bag, the driver's hand lands on the passenger's thigh, and all three stare into the camera while the Careless Whisper sax plays.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/cupid-handbag-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/cupid-handbag.webp?v=1794311571",
+      "name": "Not Today Cupid",
+      "description": "Cupid dives off a cathedral ledge with his bow drawn at you; you spin round, knock him out of the air with your handbag in a burst of feathers, pick up the bag and walk off.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/good-chat-nathan-fielder-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/good-chat-nathan-fielder.webp?v=1794323473",
+      "name": "Good Chat (Nathan Fielder)",
+      "description": "You're in the real \"good chat\" scene: sitting close, they swear they aren't deceiving you, and you answer \"Okay. All right. Okay. Good chat.\"",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/hey-boo-slide-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/hey-boo-slide.webp?v=1794311571",
+      "name": "Hey Boo Come Slide With Me",
+      "description": "A couple in matching denim walk hand in hand toward the camera across a chandelier ballroom, side-stepping and sliding on the beat, a whole line of denim-clad dancers doing the same steps behind them.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/hotline-bling-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/hotline-bling-dance.webp?v=1794311571",
+      "name": "Hotline Bling Dance",
+      "description": "You do Drake's slow Hotline Bling dance in the shiny red puffer jacket, alone in bare rooms glowing pink, lilac and pale blue: the wave-off, the finger to the lips, the point. Or your dog or cat does it, upright in the red puffer.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/la-la-land-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/la-la-land-dance.webp?v=1794311571",
+      "name": "La La Land Dance",
+      "description": "Two dancers, one in a bright yellow dress and one in a white shirt and loose tie, tap-dance side by side at dusk on a hilltop lookout above the city lights: claps face to face, tapping toward the camera with arms flung wide, a spin, travelling steps and a finish side by side in profile.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/thanksgiving-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/thanksgiving-dance.webp?v=1794315837",
+      "name": "Thanksgiving Dance",
+      "description": "You dance the Thanksgiving Bend in your living room to the 'beans, greens, potatoes, tomatoes' remix: arm swings, hands up on your head, hands-on-hips bends, then you dance right up to the camera.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
