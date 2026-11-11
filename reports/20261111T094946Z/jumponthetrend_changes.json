@@ -1,0 +1,55 @@
+{
+  "generated_at": "20261111T094946Z",
+  "counts": {
+    "active": 495,
+    "coming_soon": 1,
+    "rising": 5,
+    "sitemap": 497,
+    "total": 502
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/dog-pool-party-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/dog-pool-party.webp?v=1794386430",
+      "name": "Dog Pool Party",
+      "description": "Your dog or cat, in pink swim goggles, a ruffled pink swim set and arm floats, dances on its back legs at a night pool party and shakes its hips at the camera. Or you do, in your own clothes.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/husband-emporium-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/husband-emporium.webp?v=1794386471",
+      "name": "Husband Emporium",
+      "description": "In a candy-pink 1950s showroom, a salesman shows a shopper the 'Gym Edition' husband flexing on a lit gold pedestal: your partner goes on display, or you go shopping.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
+      "status": "rising",
+      "name": "Jensen Huang memes",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/kiss-cam-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/kiss-cam.webp?v=1794386630",
+      "name": "Kiss Cam",
+      "description": "Caught on a stadium's giant kiss cam mid-hug, the couple panic: one covers their face and spins away, the other ducks out of sight, while the people beside them laugh.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/rubber-band-prank-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/rubber-band-prank.webp?v=1794386618",
+      "name": "Rubber Band Prank",
+      "description": "One of you aims a long green band at the one at the kitchen counter, lets go, and it snaps straight back into your own face: two pets, the two of you, or you and your pet.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
