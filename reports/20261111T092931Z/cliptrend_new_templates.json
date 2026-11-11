@@ -1,0 +1,188 @@
+{
+  "generated_at": "20261111T092931Z",
+  "count": 26,
+  "templates": [
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-action-figure",
+      "image": "/effects/ai-action-figure/example-image.webp",
+      "name": "AI Action Figure Generator",
+      "description": "Turn one photo into a boxed collectible action figure of you.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-aging-generator",
+      "image": "/effects/ai-aging-generator/example-image.webp",
+      "name": "AI Aging Generator",
+      "description": "See yourself decades older from a single photo.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-anime-generator",
+      "image": "/effects/ai-anime-generator/example-image.webp",
+      "name": "AI Anime Generator",
+      "description": "Turn one photo into a believable anime version of you.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-baby-generator",
+      "image": "/effects/ai-baby-generator/example-2p-poster.webp",
+      "name": "AI Baby Generator",
+      "description": "Blend two parent photos into an adorable baby.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-cartoon-generator",
+      "image": "/effects/ai-cartoon-generator/example-image.webp",
+      "name": "AI Cartoon Generator",
+      "description": "Turn one photo into a fun 3D Pixar-style cartoon.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-costume-generator",
+      "image": "/effects/ai-costume-generator/example-photo.webp",
+      "name": "AI Costume Generator",
+      "description": "Try 24 Halloween costumes, your own, or any idea on you.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-couple-generator",
+      "image": "/effects/ai-couple-generator/example-2p-poster.webp",
+      "name": "AI Couple Generator",
+      "description": "Merge two people into one natural couple video.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-future-self",
+      "image": "/effects/ai-future-self/example-image.webp",
+      "name": "AI Future Self Generator",
+      "description": "Age one photo into a believable older you.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-glow-up-generator",
+      "image": "/effects/ai-glow-up-generator/example-image.webp",
+      "name": "AI Glow Up Generator",
+      "description": "Give your photo a tasteful, styled makeover.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-halloween-generator",
+      "image": "/effects/ai-halloween-generator/example-image.webp",
+      "name": "AI Halloween",
+      "description": "Drop yourself into a Halloween costume from a selfie.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-mini-me",
+      "image": "/effects/ai-mini-me/example-image.webp",
+      "name": "AI Mini Me Generator",
+      "description": "Stand a pint-sized clone of you beside yourself.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-pregnant-generator",
+      "image": "/effects/ai-pregnant-generator/example-image.webp",
+      "name": "AI Pregnant Generator",
+      "description": "Add a believable, fully clothed baby bump to your photo.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-prom-generator",
+      "image": "/effects/ai-prom-generator/example-image.webp",
+      "name": "AI Prom Generator",
+      "description": "Dress yourself in an elegant prom outfit.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-proposal-generator",
+      "image": "/effects/ai-proposal-generator/example-2p-poster.webp",
+      "name": "AI Proposal Generator",
+      "description": "Merge two photos into a romantic proposal scene.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-statue-generator",
+      "image": "/effects/ai-statue-generator/example-image.webp",
+      "name": "AI Statue Generator",
+      "description": "Turn one photo into a classical marble statue.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-superhero-generator",
+      "image": "/effects/ai-superhero-generator/example-image.webp",
+      "name": "AI Superhero Generator",
+      "description": "Reimagine your photo in a cinematic superhero costume.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-wedding-generator",
+      "image": "/effects/ai-wedding-generator/example-image.webp",
+      "name": "AI Wedding Generator",
+      "description": "Turn one ordinary photo into a wedding-day moment.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-workout-generator",
+      "image": "/effects/ai-workout-generator/example-image.webp",
+      "name": "AI Workout Generator",
+      "description": "Give your photo a lean, training-ready gym look.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/ai-zombie-generator",
+      "image": "/effects/ai-zombie-generator/example-image.webp",
+      "name": "AI Zombie Generator",
+      "description": "Turn one photo into a Halloween zombie video.",
+      "credits": "20 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/christmas-pet-photo-ai",
+      "image": "/effects/christmas-pet-photo-ai/result.webp",
+      "name": "Christmas Pet Photo AI",
+      "description": "Make a festive Christmas picture from one pet photo.",
+      "credits": "3 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/faith-girl-stickers-ai",
+      "image": "/effects/faith-girl-stickers-ai/result.webp",
+      "name": "Faith Girl Stickers AI",
+      "description": "Create a faith-inspired sticker sheet from your portrait.",
+      "credits": "3 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/female-malfoy-ai",
+      "image": "/effects/female-malfoy-ai/result.webp",
+      "name": "Female Malfoy AI",
+      "description": "Create a fantasy academy portrait from one adult photo.",
+      "credits": "3 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/hop-hop-hop-ai",
+      "image": "/effects/hop-hop-hop-ai/example-poster.jpg",
+      "name": "Hop Hop Hop AI",
+      "description": "Two people hop, point at the camera and swap places.",
+      "credits": "87 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/im-onnat-toy-car-ai",
+      "image": "/effects/im-onnat-toy-car-ai/result.webp",
+      "name": "I'm Onnat Toy Car AI",
+      "description": "See yourself in a tiny toy car beside the field.",
+      "credits": "3 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/pirate-crew-selfie-ai",
+      "image": "/effects/pirate-crew-selfie-ai/result.webp",
+      "name": "Pirate Crew Selfie AI",
+      "description": "Join a crew of pirate cats for a shipboard selfie.",
+      "credits": "3 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/what-hairstyle-suits-me",
+      "image": "/effects/what-hairstyle-suits-me/example.webp",
+      "name": "What Hairstyle Suits Me",
+      "description": "Four haircuts that suit your face shape, on your photo.",
+      "credits": "20 credits"
+    }
+  ]
+}
