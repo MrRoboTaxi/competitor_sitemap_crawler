@@ -1,0 +1,75 @@
+{
+  "generated_at": "20261112T213453Z",
+  "counts": {
+    "active": 502,
+    "coming_soon": 1,
+    "rising": 5,
+    "sitemap": 504,
+    "total": 509
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/hot-chick-ice-cream-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/hot-chick-ice-cream.webp?v=1794490804",
+      "name": "Hot Chick Ice Cream Scene",
+      "description": "At a mall ice cream counter you take a slow sip of a whipped-cream drink, hold up a dab of cream on your fingertip and ask 'how much do I owe you?'; the smitten server says 'it's on the house', and you walk off with one look back.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/huell-money-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/huell-money.webp?v=1794490758",
+      "name": "Huell Money",
+      "description": "In a storage unit stacked with cash, one of you falls back onto the pile of money and lies there in bliss; the other argues, gives up and lies down too, hands folded, side by side on the bills.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/island-boy-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/island-boy.webp?v=1794484169",
+      "name": "Island Boy",
+      "description": "At a small garden pool, one of you sits on the stone edge with socks in the water while the other stands waist-deep in a black leather jacket and sings the island boy hook to the camera.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/not-like-us-halftime-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/not-like-us-halftime.webp?v=1794490720",
+      "name": "Not Like Us Halftime",
+      "description": "You take the mic at the centre of the 2025 halftime show stage for Not Like Us: blue varsity jacket, four dancers in white posed around you, the dark stadium lit by phone lights.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/office-parkour-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/office-parkour.webp?v=1794484169",
+      "name": "Office Parkour",
+      "description": "You burst into the office, dive head-first onto the couch, land upside down, then sit up and shout \"Parkour!\" at the camera while your colleagues climb over the reception counter and the desks.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/waist-heart-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/waist-heart.webp?v=1794490720",
+      "name": "Waist Heart",
+      "description": "You tap your chin, flex one arm, wag two fingers, then rest a curved hand on your waist so it makes a heart, and hold it with a smile.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/zoolander-stare-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/zoolander-stare.webp?v=1794490720",
+      "name": "Zoolander Stare",
+      "description": "On a red carpet lined with photographers you turn over your shoulder with a big smile, spot your rival arriving in a blue fur coat, and the smile drops into a long, narrow-eyed stare. Your rival stares right back.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
