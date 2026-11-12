@@ -69,12 +69,14 @@ https://www.makeviral.ai/templates/ai-santa-caught-on-camera
 https://www.makeviral.ai/templates/ai-school-photo
 https://www.makeviral.ai/templates/ai-steroids-filter
 https://www.makeviral.ai/templates/ai-text-prank
+https://www.makeviral.ai/templates/ai-video-with-celebrity
 https://www.makeviral.ai/templates/ai-walking-effect
 https://www.makeviral.ai/templates/ai-werewolf-transformation
 https://www.makeviral.ai/templates/ai-witch-video
 https://www.makeviral.ai/templates/ai-zombie-trend
 https://www.makeviral.ai/templates/aint-no-mountain-subway-ai-trend
 https://www.makeviral.ai/templates/ali-g-driving-scene-ai
+https://www.makeviral.ai/templates/almost-almost-ai-trend
 https://www.makeviral.ai/templates/alors-on-danse-ai-trend
 https://www.makeviral.ai/templates/amanha-e-feriado-ai-trend
 https://www.makeviral.ai/templates/angel-of-my-dreams-ai-trend
@@ -99,6 +101,7 @@ https://www.makeviral.ai/templates/ballon-dor-ai-prank
 https://www.makeviral.ai/templates/bama-bound-ai-trend
 https://www.makeviral.ai/templates/banana-tree-run-ai-trend
 https://www.makeviral.ai/templates/barbie-and-raquelle-ai-trend
+https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend
 https://www.makeviral.ai/templates/bby-wow-dance-ai-trend
 https://www.makeviral.ai/templates/bby-wow-guy-ai-trend
 https://www.makeviral.ai/templates/becane-ai-trend
@@ -178,6 +181,7 @@ https://www.makeviral.ai/templates/damon-salvatore-ai-trend
 https://www.makeviral.ai/templates/dancing-crocodiles-ai
 https://www.makeviral.ai/templates/dark-mirror-reflection-ai-trend
 https://www.makeviral.ai/templates/darts-170-ai-prank
+https://www.makeviral.ai/templates/davul-zurna-ai-trend
 https://www.makeviral.ai/templates/dayimin-cocuklari-ai-trend
 https://www.makeviral.ai/templates/deep-down-in-my-heart-ai-trend
 https://www.makeviral.ai/templates/devil-wears-prada-ai-trend
@@ -266,6 +270,7 @@ https://www.makeviral.ai/templates/i-wanna-love-you-ai-pet
 https://www.makeviral.ai/templates/i-want-wings-ai-trend
 https://www.makeviral.ai/templates/ice-ice-baby-dance-ai
 https://www.makeviral.ai/templates/iconic-by-mistake-ai-dance
+https://www.makeviral.ai/templates/if-i-was-chatgpt-trend
 https://www.makeviral.ai/templates/illit-youre-under-arrest-ai-dance
 https://www.makeviral.ai/templates/im-not-yo-b-no-more-ai-dance
 https://www.makeviral.ai/templates/im-onnat-football-ai-trend
@@ -273,6 +278,7 @@ https://www.makeviral.ai/templates/im-so-in-love-with-you-ai-dance
 https://www.makeviral.ai/templates/im-with-you-ai-trend
 https://www.makeviral.ai/templates/insallah-masallah-ai-trend
 https://www.makeviral.ai/templates/iphone-kupi-dance-ai-trend
+https://www.makeviral.ai/templates/island-boy-ai-trend
 https://www.makeviral.ai/templates/its-my-life-dog-ai
 https://www.makeviral.ai/templates/its-time-christmas-ai-trend
 https://www.makeviral.ai/templates/ive-looks-can-kill-ai-dance
@@ -318,6 +324,7 @@ https://www.makeviral.ai/templates/mi-chico-dance-ai-trend
 https://www.makeviral.ai/templates/mickey-ds-dance-ai-trend
 https://www.makeviral.ai/templates/middle-finger-dunk-ai-trend
 https://www.makeviral.ai/templates/mind-enterprises-balcony-ai-trend
+https://www.makeviral.ai/templates/misanthropy-meme-ai-trend
 https://www.makeviral.ai/templates/missed-train-dance-ai-trend
 https://www.makeviral.ai/templates/mom-dad-sister-brother-ai-trend
 https://www.makeviral.ai/templates/money-flex-ai-trend
@@ -334,6 +341,7 @@ https://www.makeviral.ai/templates/no-renunciare-ai-trend
 https://www.makeviral.ai/templates/no-scrubs-ai-trend
 https://www.makeviral.ai/templates/not-like-us-halftime-ai-trend
 https://www.makeviral.ai/templates/nunca-ando-sola-ai-trend
+https://www.makeviral.ai/templates/old-town-road-ai-video
 https://www.makeviral.ai/templates/on-the-radar-ai-trend
 https://www.makeviral.ai/templates/oouuh-ai-trend
 https://www.makeviral.ai/templates/opa-opa-bouncy-hair-ai
@@ -403,6 +411,7 @@ https://www.makeviral.ai/templates/spider-filter-prank-ai-trend
 https://www.makeviral.ai/templates/spiderman-pointing-meme-ai
 https://www.makeviral.ai/templates/spooky-scary-skeletons-ai-dance
 https://www.makeviral.ai/templates/squishy-ai-trend
+https://www.makeviral.ai/templates/st-tropez-dj-ai-trend
 https://www.makeviral.ai/templates/stadium-calm-down-ai-trend
 https://www.makeviral.ai/templates/stateside-dance-ai-trend
 https://www.makeviral.ai/templates/steer-wrestling-ai-trend
@@ -477,3 +486,4 @@ https://www.makeviral.ai/templates/you-look-lonely-ai-trend
 https://www.makeviral.ai/templates/you-talking-bout-me-ai-trend
 https://www.makeviral.ai/templates/you-tweaking-ai-trend
 https://www.makeviral.ai/templates/your-next-opponent-is-you-ai-trend
+https://www.makeviral.ai/templates/zoolander-who-is-she-ai-trend
