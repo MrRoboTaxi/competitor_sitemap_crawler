@@ -1,0 +1,20 @@
+{
+  "generated_at": "20261112T212857Z",
+  "count": 2,
+  "templates": [
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/baby-dancing-ai",
+      "image": "/effects/baby-dancing-ai/example-poster.webp",
+      "name": "Baby Dancing",
+      "description": "Turn a baby photo into a playful dance.",
+      "credits": "116 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/i-love-the-smiths-ai",
+      "image": "/effects/i-love-the-smiths/example-poster.webp",
+      "name": "I Love the Smiths",
+      "description": "Put two portraits into the elevator scene.",
+      "credits": "96 credits"
+    }
+  ]
+}
