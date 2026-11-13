@@ -1,0 +1,57 @@
+{
+  "generated_at": "20261113T095727Z",
+  "counts": {
+    "active": 507,
+    "coming_soon": 1,
+    "rising": 5,
+    "sitemap": 509,
+    "total": 514
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/barbie-girl-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/barbie-girl-dance.webp?v=1794561736",
+      "name": "Barbie Girl Dance",
+      "description": "Two people in a bright front hall turn round to the phone and do the Barbie Girl couple dance side by side: fists pumping, arm swings, a hip-to-hip lean, back to back, and a spin into each other.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/cctv-tiger-fight-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/cctv-tiger-fight.webp?v=1794562446",
+      "name": "CCTV Tiger Fight",
+      "description": "A grainy security camera on a forest path: you walk up it, a tiger steps out of the bushes and leaps at you, and a few seconds later you are kneeling on it, pinning it to the ground.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/natsuki-stomp-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/natsuki-stomp.webp?v=1794561736",
+      "name": "Tsundere Stomp",
+      "description": "You bounce on your toes facing the phone, then do the tsundere stomp again and again: a high kick, arms flung wide, then arms folded tight as you turn your head away.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/old-town-road-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/old-town-road.webp?v=1794561736",
+      "name": "Old Town Road",
+      "description": "You sing Old Town Road to the camera in a black cowboy hat in a bright candy shop, then ride off in the red convertible with a money bag, seen from straight above. With a friend, they're the one in the white hat holding the money bag out of the car.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/st-tropez-dj-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/st-tropez-dj.webp?v=1794561736",
+      "name": "St Tropez DJ",
+      "description": "You're the DJ of a packed Saint-Tropez beach club: at the decks in a purple tie-dye T-shirt, you throw both arms up and clap above your head, wave to the crowd and turn back to the mixer while everyone films you.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
