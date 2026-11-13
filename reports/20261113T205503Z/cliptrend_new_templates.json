@@ -1,0 +1,20 @@
+{
+  "generated_at": "20261113T205503Z",
+  "count": 2,
+  "templates": [
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/3d-month-letters-ai",
+      "image": "/effects/3d-month-letters-ai/result.webp",
+      "name": "3D Month Letters AI",
+      "description": "Create a portrait beside giant 3D month letters.",
+      "credits": "3 credits"
+    },
+    {
+      "url": "https://cliptrend.ai/ai-video-effects/push-in-ai",
+      "image": "/effects/push-in-ai/example-poster.webp",
+      "name": "Push In AI",
+      "description": "Add a slow forward camera move to your photo.",
+      "credits": "50 credits"
+    }
+  ]
+}
