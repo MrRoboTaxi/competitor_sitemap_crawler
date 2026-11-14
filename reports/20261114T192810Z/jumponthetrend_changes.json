@@ -1,0 +1,75 @@
+{
+  "generated_at": "20261114T192810Z",
+  "counts": {
+    "active": 514,
+    "coming_soon": 1,
+    "rising": 5,
+    "sitemap": 516,
+    "total": 521
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/all-i-want-for-christmas-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/all-i-want-for-christmas.webp?v=1794650034",
+      "name": "All I Want for Christmas Dance",
+      "description": "The two of you in matching pink-and-green plaid Christmas pyjamas do the 12-second All I Want for Christmas dance in a bright white kitchen: hip sways, hands at the collar, arm rolls, then you grab hands, swing round each other and finish with your arms thrown up.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/christian-dior-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/christian-dior-dance.webp?v=1794650034",
+      "name": "Christian Dior Dance",
+      "description": "Two friends in a dorm room start right at the phone, step back and do the Christian Dior dance side by side: arm rolls, knee lifts, knee kicks and the crossed-arm pose at the end.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/favorite-rumors-about-us-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/favorite-rumors-about-us.webp?v=1794650034",
+      "name": "Favorite Rumors About Us",
+      "description": "On a city street at night, two of you stand side by side under the caption \"our favorite rumors about us\", deadpan, then both break into the same goofy emote dance, three times.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/iconic-by-mistake-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/iconic-by-mistake-dance.webp?v=1794650686",
+      "name": "Iconic by Mistake Dance",
+      "description": "Two people in a dark dance studio do the Iconic by Mistake chorus dance side by side at the phone: fingers crossed over the eyes, a wide-knee squat, joined hands, then a pose each at the lens and a fingertip-to-fingertip finish.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/pet-taxi-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/pet-taxi.webp?v=1794650035",
+      "name": "Pet Taxi",
+      "description": "You hail a cab after work and your cat or dog turns up instead, as big as a bus: it lies down at the kerb, you climb on, and it carries you home.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/smash-and-grab-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/smash-and-grab.webp?v=1794669565",
+      "name": "Smash and Grab",
+      "description": "You spot a red handbag on the back seat of a parked car, smash the side window with a rock, grab the bag and run down the street with two officers chasing you: a fictional movie-stunt heist, filmed from inside the car.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/truck-driver-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/truck-driver.webp?v=1794650035",
+      "name": "Truck Driver",
+      "description": "You lean out of a big truck's window and look back as you reverse it into the yard, one hand on the wheel, then sit back and steer like you've done it for years.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
