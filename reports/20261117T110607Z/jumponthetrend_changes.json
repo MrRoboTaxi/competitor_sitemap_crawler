@@ -1,0 +1,57 @@
+{
+  "generated_at": "20261117T110607Z",
+  "counts": {
+    "active": 534,
+    "coming_soon": 1,
+    "rising": 5,
+    "sitemap": 536,
+    "total": 541
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/christmas-princess-carriage-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/christmas-princess-carriage.webp?v=1794906591",
+      "name": "Christmas Princess Carriage",
+      "description": "Your pet steps out of a glowing crystal carriage on a snowy Christmas night, in a crown and a red satin gown, stands up in little red heels, twirls and poses.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/santa-nice-list-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/santa-nice-list.webp?v=1794906591",
+      "name": "Santa Nice List",
+      "description": "Santa checks his Naughty & Nice list in his candle-lit workshop, gold sparkles swirl, and the person on the nice list appears in an ornate gold frame under pine garland and red bows.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/self-hug-sketch-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/self-hug-sketch.webp?v=1794906591",
+      "name": "Self Hug Sketch",
+      "description": "You lean back against a plain grey wall in full colour while a giant black-and-white pencil drawing of you, sketched on the wall behind you, wraps its arms around you, with \"Embrace of my own self\" handwritten beside you.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/steer-wrestling-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/steer-wrestling.webp?v=1794906787",
+      "name": "Steer Wrestling",
+      "description": "You burst out of the rodeo box on a dark horse, lean out over a running steer, slide off onto its horns and twist it down in the dust, all in slow motion.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/tidal-wave-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/tidal-wave.webp?v=1794906646",
+      "name": "Tidal Wave",
+      "description": "Three friends pose with their backs to a seafront railing on a stormy night, a giant wave rises behind them and crashes down over all three, and two of them get up and wade out of the foam straight toward the phone.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
