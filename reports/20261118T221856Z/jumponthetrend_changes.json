@@ -1,0 +1,39 @@
+{
+  "generated_at": "20261118T221856Z",
+  "counts": {
+    "active": 537,
+    "coming_soon": 1,
+    "rising": 5,
+    "sitemap": 539,
+    "total": 544
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/gta-5-goodbye-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/gta-5-goodbye.webp?v=1795024437",
+      "name": "Goodbye GTA 5",
+      "description": "On a pier at sunset, three men in a game-style scene say goodbye to you: a game case as a parting gift, a handshake, the car keys, a teary close-up, then you drive off in a pink sports car down the beach road.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/james-bond-reveal-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/james-bond-reveal.webp?v=1795014969",
+      "name": "James Bond Reveal",
+      "description": "A spy-movie teaser in total darkness: a hand on a pistol catches the light first, then the face rises out of the shadow and stares down the lens.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/winter-pet-bath-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/winter-pet-bath.webp?v=1795014969",
+      "name": "Winter Pet Bath",
+      "description": "Your pet stands up in striped boxer shorts in a chilly bathroom, scoops water with a plastic dipper and dodges every splash, then hugs itself, hurries to the bedroom and squeezes under a pile of quilts.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
