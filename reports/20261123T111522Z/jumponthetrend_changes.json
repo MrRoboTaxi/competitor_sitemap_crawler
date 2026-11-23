@@ -1,0 +1,48 @@
+{
+  "generated_at": "20261123T111522Z",
+  "counts": {
+    "active": 568,
+    "coming_soon": 1,
+    "rising": 6,
+    "sitemap": 567,
+    "total": 576
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/gta-6-jet-ski-dog-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/gta-6-jet-ski-dog.webp?v=1795432000",
+      "name": "GTA 6 Jet Ski Dog",
+      "description": "Stranded out at sea in GTA 6, you swim up to the jet ski and the dog in goggles and a life vest gives you a ride: or your own pet is the dog at the handlebars.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/mexico-pterodactyl-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/mexico-pterodactyl.webp?v=1795432190",
+      "name": "Mexico Pterodactyl",
+      "description": "You on a sunny rooftop in Mexico, walking a life-size pterodactyl on a steel chain like it's the family dog, then fixing its chain.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/mini-tricycle-crash-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/mini-tricycle-crash.webp?v=1795432008",
+      "name": "Mini Tricycle Crash",
+      "description": "You on a tiny yellow kid's tricycle, flying off a gravel bump with a peace sign before you smack into a big tree and tumble into the grass.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/paws-at-you-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/paws-at-you.webp?v=1795432272",
+      "name": "Paws at You",
+      "description": "A big-eyed snow leopard bobs up to the camera in a sunny meadow and paws at the lens while pink petals drift past. Your cat or dog, same meadow, same paw.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
