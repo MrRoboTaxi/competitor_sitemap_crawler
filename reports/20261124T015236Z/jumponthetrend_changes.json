@@ -1,0 +1,57 @@
+{
+  "generated_at": "20261124T015236Z",
+  "counts": {
+    "active": 573,
+    "coming_soon": 1,
+    "rising": 6,
+    "sitemap": 575,
+    "total": 581
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/cow-makeup-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/cow-makeup.webp?v=1795448904",
+      "name": "Cow Makeup",
+      "description": "You dab brown spots on your cheeks in front of a black backdrop, turn your head, and on the cut you're a full cow: cow-print skin, pink snout, horns, floppy ears and a brass cowbell.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/gta-6-vice-city-story-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/gta-6-vice-city-story.webp?v=1795448904",
+      "name": "GTA 6 Vice City Story",
+      "description": "Your own GTA-style story in 15 seconds: a big neon close-up of you on a wet Vice City street at night, a deal by a black convertible at sunset, car keys slid across a diner table, a police chase in a black muscle car, and you standing by the car under a pink neon sign at the end.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/gta-here-we-go-again-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/gta-here-we-go-again.webp?v=1795448904",
+      "name": "Here We Go Again (GTA Meme)",
+      "description": "Thrown out in a sunny back alley, you get up, look around, sigh 'Ah sh*t, here we go again' and walk off down the alley: the classic GTA meme, live-action style.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/la-mujer-del-pelotero-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/la-mujer-del-pelotero-dance.webp?v=1795448904",
+      "name": "La Mujer del Pelotero Dance",
+      "description": "You and a friend in evening dresses at a party, side by side by the kitchen counter, doing the La Mujer del Pelotero hand routine in sync to a low phone: hands up, wrists crossed over the face, forearms rolling, a finger pointed up to finish.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/you-are-nice-you-are-pretty-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/you-are-nice-you-are-pretty.webp?v=1795448904",
+      "name": "You Are Nice, You Are Pretty",
+      "description": "Your pet sits up on a green sofa with its paws together, looks into the camera wide-eyed while the sweet little voice says it's nice, pretty, smart and your friend, then melts into a sleepy, blissed-out squint.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
