@@ -1,0 +1,93 @@
+{
+  "generated_at": "20261125T114156Z",
+  "counts": {
+    "active": 595,
+    "coming_soon": 1,
+    "rising": 5,
+    "sitemap": 597,
+    "total": 602
+  },
+  "events": [
+    {
+      "url": "https://jumponthetrend.app/trends/banana-leaf-flying-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/banana-leaf-flying.webp?v=1795597378",
+      "name": "Banana Leaf Flying",
+      "description": "You on a sandy riverbank with big banana leaves tied along your arms like wings: you run off the edge, glide over a brown river while crocodiles leap up snapping below you, and land clinging to a leaning palm tree before sliding down to sit at its foot.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/cat-laundry-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/cat-laundry.webp?v=1795597378",
+      "name": "Cat Laundry",
+      "description": "Your pet stands up on its hind legs and does the housework: rolls a blanket into the wardrobe, shuts a red bowl in the kitchen cupboard, then pulls the dry clothes off the balcony rail at night.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/cat-on-ultra-bee-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/cat-on-ultra-bee.webp?v=1795597378",
+      "name": "Cat on Ultra Bee",
+      "description": "Your cat or dog stands up on a teal electric dirt bike, paws on the bars, and holds a long wheelie down an empty city road past graffiti walls, power pylons and the skyline at sunset.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/chased-by-hyenas-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/chased-by-hyenas.webp?v=1795597378",
+      "name": "Chased by Hyenas",
+      "description": "You sprinting flat out straight at the camera across dry red savanna, a pack of spotted wild dogs right at your heels, leaping clean over one as it tumbles in the dust and running on with the pack all around you.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/gobble-gobble-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/gobble-gobble-dance.webp?v=1795597378",
+      "name": "Gobble Gobble Dance",
+      "description": "You and a friend side by side in a cosy living room, dancing in sync to the Gobble Gobble song: palms-up shrugs on every \"gobble gobble\", a side-on hip wiggle, fists punching out and back to the lens.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/grandpa-said-hed-handle-dinner-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/grandpa-said-hed-handle-dinner.webp?v=1795597378",
+      "name": "Grandpa Said He'd Handle Dinner",
+      "description": "You, as the giant-armed grandpa in a black tank top, chopping a fish as long as the kitchen counter with a black cleaver, swinging it overhead and looking up at the camera between chops all the way down to the tail.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/hero-funk-dance-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/hero-funk-dance.webp?v=1795597378",
+      "name": "Hero Funk Dance",
+      "description": "You do the Hero Funk head-bop dance in a bedroom: head bops, a low squat with fists up, a fist pump, a hop at the camera, a stop hand at the lens, a shrug, arms crossed and palms together, one full-length take.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/king-jin-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/king-jin.webp?v=1795597378",
+      "name": "King Jin",
+      "description": "You stand still on a neon street at night with a lollipop stick between your lips while the whole crowd around you bows deep from the waist, then a slow close-up, a walk down a blue corridor with your hands in your pockets and a last look away against the skyline.",
+      "previous_status": "",
+      "event": "new"
+    },
+    {
+      "url": "https://jumponthetrend.app/trends/water-flyboard-ride-ai-trend/",
+      "status": "active",
+      "image": "https://jumponthetrend.app/cards/water-flyboard-ride.webp?v=1795597378",
+      "name": "Water Flyboard Ride",
+      "description": "Your partner flies in on a water-jet flyboard behind a boat, you step barefoot from the deck onto the board, you hug, and the two of you lift off together over the sea.",
+      "previous_status": "",
+      "event": "new"
+    }
+  ]
+}
